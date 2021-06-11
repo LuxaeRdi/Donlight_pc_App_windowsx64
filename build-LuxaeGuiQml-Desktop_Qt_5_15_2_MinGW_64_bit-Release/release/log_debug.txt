@@ -95,3 +95,19 @@ vi. jun. 11 11:58:15 2021 --- configs diferentes
 vi. jun. 11 11:58:15 2021 --- patterns diferentes
 vi. jun. 11 11:58:15 2021 --- expected hw 53 rev4 but we have not set
 vi. jun. 11 11:59:47 2021 --- equipos descubiertos=6
+vi. jun. 11 14:04:44 2021 --- dropped
+vi. jun. 11 14:04:44 2021 --- 56 42 39 32 71 27 de 48 
+vi. jun. 11 14:04:44 2021 --- configs diferentes
+vi. jun. 11 14:04:44 2021 --- patterns diferentes
+vi. jun. 11 14:04:44 2021 --- expected hw 53 rev4 but we have not set
+vi. jun. 11 14:04:46 2021 --- dropped
+vi. jun. 11 14:04:46 2021 --- 56 42 39 32 56 34 de 48 
+vi. jun. 11 14:04:46 2021 --- configs diferentes
+vi. jun. 11 14:04:46 2021 --- patterns diferentes
+vi. jun. 11 14:04:46 2021 --- expected hw 53 rev4 but we have not set
+vi. jun. 11 14:04:47 2021 --- equipos descubiertos=6
+vi. jun. 11 14:04:52 2021 --- dropped
+vi. jun. 11 14:04:52 2021 --- 56 42 39 32 56 36 d8 48 
+vi. jun. 11 14:04:52 2021 --- configs diferentes
+vi. jun. 11 14:04:54 2021 --- dropped
+vi. jun. 11 14:04:54 2021 --- 56 42 39 32 86 5f dc 48 
