@@ -1,0 +1,13 @@
+release/main.o
+release/serialcoms.o
+release/DragModule_qml.o
+release/RightMenu_qml.o
+release/DropModule_qml.o
+release/LeftMenu_qml.o
+release/LatchingButton_qml.o
+release/main_qml.o
+release/SimpleButton_qml.o
+release/CenterPanel_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_serialcoms.o
