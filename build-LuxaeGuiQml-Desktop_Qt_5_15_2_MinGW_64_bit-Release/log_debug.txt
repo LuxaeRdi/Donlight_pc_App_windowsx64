@@ -1417,3 +1417,46 @@ mi. jun. 30 17:54:26 2021 --- configs=8
 mi. jun. 30 17:54:26 2021 --- apps=8
 mi. jun. 30 17:55:31 2021 --- equipos descubiertos=8
 mi. jun. 30 17:55:40 2021 --- equipos descubiertos=8
+ju. jul. 8 13:11:47 2021 --- equipos descubiertos=1
+ju. jul. 8 13:11:57 2021 --- equipos descubiertos=1
+ju. jul. 8 13:13:14 2021 --- equipos descubiertos=1
+ju. jul. 8 13:14:12 2021 --- equipos descubiertos=1
+ju. jul. 8 13:17:27 2021 --- equipos descubiertos=1
+ju. jul. 8 13:25:38 2021 --- equipos descubiertos=1
+ju. jul. 8 13:25:45 2021 --- equipos descubiertos=1
+ju. jul. 8 13:33:06 2021 --- equipos descubiertos=1
+ju. jul. 8 13:33:20 2021 --- equipos descubiertos=1
+ju. jul. 8 13:49:28 2021 --- equipos descubiertos=1
+ju. jul. 8 13:57:18 2021 --- equipos descubiertos=1
+ju. jul. 8 14:00:05 2021 --- equipos descubiertos=1
+ju. jul. 8 14:02:41 2021 --- equipos descubiertos=1
+ju. jul. 8 14:19:02 2021 --- T
+ju. jul. 8 14:19:59 2021 --- T
+ju. jul. 8 14:20:00 2021 --- T
+ju. jul. 8 14:20:02 2021 --- T
+ju. jul. 8 14:20:03 2021 --- T
+ju. jul. 8 14:20:47 2021 --- T
+ju. jul. 8 14:20:48 2021 --- T
+ju. jul. 8 14:24:27 2021 --- equipos descubiertos=1
+ju. jul. 8 14:24:30 2021 --- equipos descubiertos=1
+ju. jul. 8 14:54:30 2021 --- equipos descubiertos=1
+ju. jul. 8 15:08:05 2021 --- equipos descubiertos=1
+ju. jul. 8 15:26:54 2021 --- equipos descubiertos=1
+ju. jul. 8 15:59:12 2021 --- equipos descubiertos=1
+ju. jul. 8 16:11:58 2021 --- equipos descubiertos=1
+ju. jul. 8 16:15:26 2021 --- equipos descubiertos=1
+ju. jul. 8 16:21:19 2021 --- equipos descubiertos=1
+ju. jul. 8 16:23:24 2021 --- equipos descubiertos=1
+ju. jul. 8 16:24:57 2021 --- equipos descubiertos=2
+ju. jul. 8 16:30:41 2021 --- equipos descubiertos=2
+ju. jul. 8 16:30:47 2021 --- dropped
+ju. jul. 8 16:30:47 2021 --- 1 57 41 56 60 35 5f 20 
+ju. jul. 8 16:30:47 2021 --- configs diferentes
+ju. jul. 8 16:30:47 2021 --- expected hw 53 rev4 but we have 53 rev3
+ju. jul. 8 16:30:48 2021 --- Config update
+ju. jul. 8 16:30:48 2021 --- equipos descubiertos=2
+ju. jul. 8 16:30:48 2021 --- patterns=2
+ju. jul. 8 16:30:48 2021 --- configs=2
+ju. jul. 8 16:30:48 2021 --- apps=2
+ju. jul. 8 16:31:02 2021 --- equipos descubiertos=2
+ju. jul. 8 16:33:37 2021 --- equipos descubiertos=2

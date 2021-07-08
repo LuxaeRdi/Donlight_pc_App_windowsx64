@@ -22,8 +22,8 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_serialCOMs_t {
-    QByteArrayData data[55];
-    char stringdata0[850];
+    QByteArrayData data[56];
+    char stringdata0[866];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -86,7 +86,8 @@ QT_MOC_LITERAL(50, 769, 16), // "configs_filename"
 QT_MOC_LITERAL(51, 786, 11), // "fw_filename"
 QT_MOC_LITERAL(52, 798, 22), // "typeofbinaries_command"
 QT_MOC_LITERAL(53, 821, 14), // "turningsignals"
-QT_MOC_LITERAL(54, 836, 13) // "turningsignal"
+QT_MOC_LITERAL(54, 836, 13), // "turningsignal"
+QT_MOC_LITERAL(55, 850, 15) // "getinternaltemp"
 
     },
     "serialCOMs\0serialtextreceived\0\0txt\0"
@@ -112,7 +113,7 @@ QT_MOC_LITERAL(54, 836, 13) // "turningsignal"
     "updateOfoneDONLIGHT\0patterns_filename\0"
     "configs_filename\0fw_filename\0"
     "typeofbinaries_command\0turningsignals\0"
-    "turningsignal"
+    "turningsignal\0getinternaltemp"
 };
 #undef QT_MOC_LITERAL
 
@@ -122,7 +123,7 @@ static const uint qt_meta_data_serialCOMs[] = {
        8,       // revision
        0,       // classname
        0,    0, // classinfo
-      28,   14, // methods
+      29,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -130,36 +131,37 @@ static const uint qt_meta_data_serialCOMs[] = {
        9,       // signalCount
 
  // signals: name, argc, parameters, tag, flags
-       1,    1,  154,    2, 0x06 /* Public */,
-       4,    1,  157,    2, 0x06 /* Public */,
-       5,    2,  160,    2, 0x06 /* Public */,
-       8,    0,  165,    2, 0x06 /* Public */,
-       9,    0,  166,    2, 0x06 /* Public */,
-      10,    2,  167,    2, 0x06 /* Public */,
-      13,    7,  172,    2, 0x06 /* Public */,
-      21,    4,  187,    2, 0x06 /* Public */,
-      24,    0,  196,    2, 0x06 /* Public */,
+       1,    1,  159,    2, 0x06 /* Public */,
+       4,    1,  162,    2, 0x06 /* Public */,
+       5,    2,  165,    2, 0x06 /* Public */,
+       8,    0,  170,    2, 0x06 /* Public */,
+       9,    0,  171,    2, 0x06 /* Public */,
+      10,    2,  172,    2, 0x06 /* Public */,
+      13,    7,  177,    2, 0x06 /* Public */,
+      21,    4,  192,    2, 0x06 /* Public */,
+      24,    0,  201,    2, 0x06 /* Public */,
 
  // slots: name, argc, parameters, tag, flags
-      25,    0,  197,    2, 0x08 /* Private */,
-      26,    0,  198,    2, 0x08 /* Private */,
-      27,    0,  199,    2, 0x08 /* Private */,
-      28,    1,  200,    2, 0x0a /* Public */,
-      29,    0,  203,    2, 0x0a /* Public */,
-      30,    2,  204,    2, 0x0a /* Public */,
-      30,    1,  209,    2, 0x2a /* Public | MethodCloned */,
-      32,    2,  212,    2, 0x0a /* Public */,
-      32,    1,  217,    2, 0x2a /* Public | MethodCloned */,
-      33,    1,  220,    2, 0x0a /* Public */,
-      34,    1,  223,    2, 0x0a /* Public */,
-      35,    1,  226,    2, 0x0a /* Public */,
-      36,    1,  229,    2, 0x0a /* Public */,
-      38,    0,  232,    2, 0x0a /* Public */,
-      39,    1,  233,    2, 0x0a /* Public */,
-      41,    1,  236,    2, 0x0a /* Public */,
-      42,    5,  239,    2, 0x0a /* Public */,
-      48,    5,  250,    2, 0x0a /* Public */,
-      53,    1,  261,    2, 0x0a /* Public */,
+      25,    0,  202,    2, 0x08 /* Private */,
+      26,    0,  203,    2, 0x08 /* Private */,
+      27,    0,  204,    2, 0x08 /* Private */,
+      28,    1,  205,    2, 0x0a /* Public */,
+      29,    0,  208,    2, 0x0a /* Public */,
+      30,    2,  209,    2, 0x0a /* Public */,
+      30,    1,  214,    2, 0x2a /* Public | MethodCloned */,
+      32,    2,  217,    2, 0x0a /* Public */,
+      32,    1,  222,    2, 0x2a /* Public | MethodCloned */,
+      33,    1,  225,    2, 0x0a /* Public */,
+      34,    1,  228,    2, 0x0a /* Public */,
+      35,    1,  231,    2, 0x0a /* Public */,
+      36,    1,  234,    2, 0x0a /* Public */,
+      38,    0,  237,    2, 0x0a /* Public */,
+      39,    1,  238,    2, 0x0a /* Public */,
+      41,    1,  241,    2, 0x0a /* Public */,
+      42,    5,  244,    2, 0x0a /* Public */,
+      48,    5,  255,    2, 0x0a /* Public */,
+      53,    1,  266,    2, 0x0a /* Public */,
+      55,    1,  269,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::QVariant,    3,
@@ -192,6 +194,7 @@ static const uint qt_meta_data_serialCOMs[] = {
     QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   43,   44,   45,   46,   47,
     QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   40,   49,   50,   51,   52,
     QMetaType::Void, QMetaType::QString,   54,
+    QMetaType::Void, QMetaType::QString,   40,
 
        0        // eod
 };
@@ -230,6 +233,7 @@ void serialCOMs::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         case 25: _t->updateOfAllDONLIGHTS((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
         case 26: _t->updateOfoneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
         case 27: _t->turningsignals((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 28: _t->getinternaltemp((*reinterpret_cast< QString(*)>(_a[1]))); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -329,13 +333,13 @@ int serialCOMs::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 28)
+        if (_id < 29)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 28;
+        _id -= 29;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 28)
+        if (_id < 29)
             *reinterpret_cast<int*>(_a[0]) = -1;
-        _id -= 28;
+        _id -= 29;
     }
     return _id;
 }
