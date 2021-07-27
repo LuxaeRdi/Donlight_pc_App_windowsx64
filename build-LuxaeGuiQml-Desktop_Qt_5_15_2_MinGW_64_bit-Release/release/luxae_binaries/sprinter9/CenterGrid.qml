@@ -13,7 +13,7 @@ Grid{
         number: 2
         configName: "Corner2.bin"
         patternName: "patterns.bin"
-        appName: "v53rev4.bin"
+        appName: "v053rev4.bin"
         hwName:"53 rev4"
     }
 
@@ -23,7 +23,7 @@ Grid{
         number: 3
         configName: "FrontLeft.bin"
         patternName: "patterns.bin"
-        appName: "v55rev1.bin"
+        appName: "v055rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -33,7 +33,7 @@ Grid{
         number: 4
         configName: "CentreWithEmitter.bin"
         patternName: "patterns.bin"
-        appName: "v55rev1.bin"
+        appName: "v055rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -43,7 +43,7 @@ Grid{
         number: 5
         configName: "FrontRight.bin"
         patternName: "patterns.bin"
-        appName: "v55rev1.bin"
+        appName: "v055rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -53,7 +53,7 @@ Grid{
         number: 6
         configName: "Corner3.bin"
         patternName: "patterns.bin"
-        appName: "v53rev4.bin"
+        appName: "v053rev4.bin"
         hwName:"53 rev4"
     }
 
@@ -63,7 +63,7 @@ Grid{
         number: 1
         configName: "Corner1.bin"
         patternName: "patterns.bin"
-        appName: "v53rev4.bin"
+        appName: "v053rev4.bin"
         hwName:"53 rev4"
     }
 
@@ -73,7 +73,7 @@ Grid{
         number: 9
         configName: "RearLeftWorklight.bin"
         patternName: "patterns.bin"
-        appName: "v55rev1.bin"
+        appName: "v055rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -88,7 +88,7 @@ Grid{
         number: 8
         configName: "RearRightWorklight.bin"
         patternName: "patterns.bin"
-        appName: "v55rev1.bin"
+        appName: "v055rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -98,7 +98,7 @@ Grid{
         number: 7
         configName: "Corner4.bin"
         patternName: "patterns.bin"
-        appName: "v53rev4.bin"
+        appName: "v053rev4.bin"
         hwName:"53 rev4"
     }
 }

@@ -22,8 +22,8 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_serialCOMs_t {
-    QByteArrayData data[63];
-    char stringdata0[971];
+    QByteArrayData data[64];
+    char stringdata0[974];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -86,15 +86,16 @@ QT_MOC_LITERAL(50, 765, 5), // "uuids"
 QT_MOC_LITERAL(51, 771, 18), // "patterns_filenames"
 QT_MOC_LITERAL(52, 790, 17), // "configs_filenames"
 QT_MOC_LITERAL(53, 808, 12), // "fw_filenames"
-QT_MOC_LITERAL(54, 821, 14), // "typeofbinaries"
-QT_MOC_LITERAL(55, 836, 19), // "updateOfoneDONLIGHT"
-QT_MOC_LITERAL(56, 856, 17), // "patterns_filename"
-QT_MOC_LITERAL(57, 874, 16), // "configs_filename"
-QT_MOC_LITERAL(58, 891, 11), // "fw_filename"
-QT_MOC_LITERAL(59, 903, 22), // "typeofbinaries_command"
-QT_MOC_LITERAL(60, 926, 14), // "turningsignals"
-QT_MOC_LITERAL(61, 941, 13), // "turningsignal"
-QT_MOC_LITERAL(62, 955, 15) // "getinternaltemp"
+QT_MOC_LITERAL(54, 821, 2), // "hw"
+QT_MOC_LITERAL(55, 824, 14), // "typeofbinaries"
+QT_MOC_LITERAL(56, 839, 19), // "updateOfoneDONLIGHT"
+QT_MOC_LITERAL(57, 859, 17), // "patterns_filename"
+QT_MOC_LITERAL(58, 877, 16), // "configs_filename"
+QT_MOC_LITERAL(59, 894, 11), // "fw_filename"
+QT_MOC_LITERAL(60, 906, 22), // "typeofbinaries_command"
+QT_MOC_LITERAL(61, 929, 14), // "turningsignals"
+QT_MOC_LITERAL(62, 944, 13), // "turningsignal"
+QT_MOC_LITERAL(63, 958, 15) // "getinternaltemp"
 
     },
     "serialCOMs\0serialtextreceived\0\0txt\0"
@@ -119,7 +120,7 @@ QT_MOC_LITERAL(62, 955, 15) // "getinternaltemp"
     "enterbootmodeOfOneDONLIGHT\0uuid\0"
     "flashERASEOfOneDONLIGHT\0updateOfAllDONLIGHTS\0"
     "uuids\0patterns_filenames\0configs_filenames\0"
-    "fw_filenames\0typeofbinaries\0"
+    "fw_filenames\0hw\0typeofbinaries\0"
     "updateOfoneDONLIGHT\0patterns_filename\0"
     "configs_filename\0fw_filename\0"
     "typeofbinaries_command\0turningsignals\0"
@@ -173,10 +174,10 @@ static const uint qt_meta_data_serialCOMs[] = {
       45,    0,  275,    2, 0x0a /* Public */,
       46,    1,  276,    2, 0x0a /* Public */,
       48,    1,  279,    2, 0x0a /* Public */,
-      49,    5,  282,    2, 0x0a /* Public */,
-      55,    5,  293,    2, 0x0a /* Public */,
-      60,    1,  304,    2, 0x0a /* Public */,
-      62,    1,  307,    2, 0x0a /* Public */,
+      49,    6,  282,    2, 0x0a /* Public */,
+      56,    5,  295,    2, 0x0a /* Public */,
+      61,    1,  306,    2, 0x0a /* Public */,
+      63,    1,  309,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::QVariant,    3,
@@ -211,9 +212,9 @@ static const uint qt_meta_data_serialCOMs[] = {
     QMetaType::Void,
     QMetaType::Void, QMetaType::QString,   47,
     QMetaType::Void, QMetaType::QString,   47,
-    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   50,   51,   52,   53,   54,
-    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   47,   56,   57,   58,   59,
-    QMetaType::Void, QMetaType::QString,   61,
+    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   50,   51,   52,   53,   54,   55,
+    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   47,   57,   58,   59,   60,
+    QMetaType::Void, QMetaType::QString,   62,
     QMetaType::Void, QMetaType::QString,   47,
 
        0        // eod
@@ -255,7 +256,7 @@ void serialCOMs::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         case 27: _t->signalemiterasecentergriddata(); break;
         case 28: _t->enterbootmodeOfOneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1]))); break;
         case 29: _t->flashERASEOfOneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 30: _t->updateOfAllDONLIGHTS((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
+        case 30: _t->updateOfAllDONLIGHTS((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5])),(*reinterpret_cast< QString(*)>(_a[6]))); break;
         case 31: _t->updateOfoneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
         case 32: _t->turningsignals((*reinterpret_cast< QString(*)>(_a[1]))); break;
         case 33: _t->getinternaltemp((*reinterpret_cast< QString(*)>(_a[1]))); break;
