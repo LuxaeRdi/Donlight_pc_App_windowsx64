@@ -1,0 +1,798 @@
+ma. jul. 6 13:04:47 2021 --- equipos descubiertos=1
+ma. jul. 6 13:06:45 2021 --- dropped
+ma. jul. 6 13:06:45 2021 --- f 57 42 46 62 30 84 20 
+ma. jul. 6 13:06:45 2021 --- configs diferentes
+ma. jul. 6 13:06:45 2021 --- expected hw 53 rev4 but we have 53 rev3
+ma. jul. 6 13:06:46 2021 --- Config update
+ma. jul. 6 13:06:46 2021 --- equipos descubiertos=1
+ma. jul. 6 13:06:46 2021 --- patterns=1
+ma. jul. 6 13:06:46 2021 --- configs=1
+ma. jul. 6 13:06:46 2021 --- apps=1
+ma. jul. 6 13:07:05 2021 --- equipos descubiertos=1
+ma. jul. 6 13:10:37 2021 --- Config update
+ma. jul. 6 13:10:37 2021 --- equipos descubiertos=1
+ma. jul. 6 13:10:37 2021 --- patterns=1
+ma. jul. 6 13:10:37 2021 --- configs=1
+ma. jul. 6 13:10:37 2021 --- apps=1
+ma. jul. 6 13:17:49 2021 --- equipos descubiertos=1
+ma. jul. 6 13:17:52 2021 --- dropped
+ma. jul. 6 13:17:52 2021 --- f 57 42 46 62 30 84 20 
+ma. jul. 6 13:17:52 2021 --- configs diferentes
+ma. jul. 6 13:17:52 2021 --- expected hw 53 rev4 but we have 53 rev3
+ma. jul. 6 13:17:53 2021 --- Config update
+ma. jul. 6 13:17:53 2021 --- equipos descubiertos=1
+ma. jul. 6 13:17:53 2021 --- patterns=1
+ma. jul. 6 13:17:53 2021 --- configs=1
+ma. jul. 6 13:17:53 2021 --- apps=1
+ma. jul. 6 13:18:00 2021 --- equipos descubiertos=1
+ma. jul. 6 13:47:59 2021 --- equipos descubiertos=1
+ma. jul. 6 14:46:28 2021 --- equipos descubiertos=0
+ma. jul. 6 14:58:09 2021 --- equipos descubiertos=1
+ma. jul. 6 14:58:56 2021 --- equipos descubiertos=1
+ma. jul. 6 15:06:00 2021 --- equipos descubiertos=1
+ma. jul. 6 15:06:06 2021 --- equipos descubiertos=1
+ma. jul. 6 15:06:20 2021 --- equipos descubiertos=1
+ma. jul. 6 15:10:19 2021 --- equipos descubiertos=0
+ma. jul. 6 15:10:50 2021 --- equipos descubiertos=1
+ma. jul. 6 15:13:39 2021 --- equipos descubiertos=1
+ma. jul. 6 15:22:01 2021 --- equipos descubiertos=1
+ma. jul. 6 15:22:38 2021 --- equipos descubiertos=1
+ma. jul. 6 15:26:20 2021 --- equipos descubiertos=1
+ma. jul. 6 15:26:38 2021 --- equipos descubiertos=1
+ma. jul. 6 15:28:42 2021 --- equipos descubiertos=1
+ma. jul. 6 15:29:12 2021 --- equipos descubiertos=1
+ma. jul. 6 15:29:59 2021 --- equipos descubiertos=1
+ma. jul. 6 15:31:25 2021 --- equipos descubiertos=1
+ma. jul. 6 15:38:12 2021 --- equipos descubiertos=1
+ma. jul. 6 15:52:20 2021 --- equipos descubiertos=1
+ma. jul. 6 15:56:25 2021 --- equipos descubiertos=1
+ma. jul. 6 16:01:30 2021 --- equipos descubiertos=1
+ma. jul. 6 16:20:52 2021 --- equipos descubiertos=1
+ma. jul. 6 16:30:55 2021 --- equipos descubiertos=1
+ma. jul. 6 16:31:23 2021 --- equipos descubiertos=1
+ma. jul. 6 16:32:25 2021 --- equipos descubiertos=1
+ma. jul. 6 16:55:00 2021 --- equipos descubiertos=1
+ma. jul. 6 17:21:53 2021 --- equipos descubiertos=1
+mi. jul. 7 09:08:18 2021 --- equipos descubiertos=1
+mi. jul. 7 09:24:38 2021 --- equipos descubiertos=1
+mi. jul. 7 09:43:03 2021 --- equipos descubiertos=1
+mi. jul. 7 09:53:14 2021 --- equipos descubiertos=1
+mi. jul. 7 09:58:46 2021 --- equipos descubiertos=1
+mi. jul. 7 10:00:14 2021 --- equipos descubiertos=1
+mi. jul. 7 10:01:24 2021 --- equipos descubiertos=1
+mi. jul. 7 10:03:22 2021 --- equipos descubiertos=1
+mi. jul. 7 10:03:31 2021 --- equipos descubiertos=1
+mi. jul. 7 10:04:35 2021 --- equipos descubiertos=1
+mi. jul. 7 10:04:54 2021 --- equipos descubiertos=1
+mi. jul. 7 10:07:36 2021 --- equipos descubiertos=1
+mi. jul. 7 10:08:06 2021 --- equipos descubiertos=1
+mi. jul. 7 10:09:45 2021 --- equipos descubiertos=1
+mi. jul. 7 10:11:12 2021 --- equipos descubiertos=1
+mi. jul. 7 10:12:42 2021 --- equipos descubiertos=1
+mi. jul. 7 10:16:55 2021 --- equipos descubiertos=1
+mi. jul. 7 10:20:09 2021 --- equipos descubiertos=1
+mi. jul. 7 10:21:39 2021 --- equipos descubiertos=1
+mi. jul. 7 10:23:36 2021 --- equipos descubiertos=1
+mi. jul. 7 10:24:40 2021 --- equipos descubiertos=1
+mi. jul. 7 10:26:53 2021 --- Patterns update
+mi. jul. 7 10:26:53 2021 --- equipos descubiertos=1
+mi. jul. 7 10:26:53 2021 --- patterns=1
+mi. jul. 7 10:26:53 2021 --- configs=1
+mi. jul. 7 10:26:53 2021 --- apps=1
+mi. jul. 7 10:26:56 2021 --- equipos descubiertos=1
+mi. jul. 7 10:29:17 2021 --- equipos descubiertos=1
+mi. jul. 7 10:31:08 2021 --- equipos descubiertos=1
+mi. jul. 7 10:33:03 2021 --- equipos descubiertos=1
+mi. jul. 7 10:33:59 2021 --- equipos descubiertos=1
+mi. jul. 7 10:36:00 2021 --- equipos descubiertos=1
+mi. jul. 7 10:39:12 2021 --- equipos descubiertos=1
+mi. jul. 7 10:39:48 2021 --- equipos descubiertos=1
+mi. jul. 7 10:41:28 2021 --- equipos descubiertos=1
+mi. jul. 7 10:41:57 2021 --- equipos descubiertos=1
+mi. jul. 7 10:45:55 2021 --- equipos descubiertos=1
+mi. jul. 7 10:48:13 2021 --- equipos descubiertos=1
+mi. jul. 7 10:51:04 2021 --- equipos descubiertos=1
+mi. jul. 7 10:51:14 2021 --- equipos descubiertos=1
+mi. jul. 7 10:55:10 2021 --- equipos descubiertos=1
+mi. jul. 7 10:55:18 2021 --- equipos descubiertos=1
+mi. jul. 7 10:55:36 2021 --- equipos descubiertos=1
+mi. jul. 7 10:55:46 2021 --- equipos descubiertos=1
+mi. jul. 7 10:56:06 2021 --- equipos descubiertos=1
+mi. jul. 7 10:56:07 2021 --- equipos descubiertos=1
+mi. jul. 7 10:56:21 2021 --- equipos descubiertos=1
+mi. jul. 7 10:56:26 2021 --- equipos descubiertos=1
+mi. jul. 7 11:00:49 2021 --- equipos descubiertos=1
+mi. jul. 7 11:12:45 2021 --- equipos descubiertos=1
+mi. jul. 7 11:24:55 2021 --- equipos descubiertos=1
+mi. jul. 7 12:36:10 2021 --- equipos descubiertos=1
+mi. jul. 7 12:36:19 2021 --- configs diferentes
+mi. jul. 7 12:36:19 2021 --- patterns diferentes
+mi. jul. 7 12:36:19 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 7 12:36:30 2021 --- dropped
+mi. jul. 7 12:36:30 2021 --- f 57 42 46 62 30 84 20 
+mi. jul. 7 12:36:30 2021 --- configs diferentes
+mi. jul. 7 12:36:30 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 12:36:32 2021 --- Config update
+mi. jul. 7 12:36:32 2021 --- equipos descubiertos=1
+mi. jul. 7 12:36:32 2021 --- patterns=1
+mi. jul. 7 12:36:32 2021 --- configs=1
+mi. jul. 7 12:36:32 2021 --- apps=1
+mi. jul. 7 12:36:51 2021 --- equipos descubiertos=1
+mi. jul. 7 12:36:58 2021 --- dropped
+mi. jul. 7 12:36:58 2021 --- f 57 42 46 62 30 84 20 
+mi. jul. 7 12:36:58 2021 --- configs diferentes
+mi. jul. 7 12:36:58 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 12:37:00 2021 --- Config update
+mi. jul. 7 12:37:00 2021 --- equipos descubiertos=1
+mi. jul. 7 12:37:00 2021 --- patterns=1
+mi. jul. 7 12:37:00 2021 --- configs=1
+mi. jul. 7 12:37:00 2021 --- apps=1
+mi. jul. 7 12:58:39 2021 --- equipos descubiertos=1
+mi. jul. 7 12:58:43 2021 --- equipos descubiertos=1
+mi. jul. 7 12:58:47 2021 --- equipos descubiertos=1
+mi. jul. 7 12:58:53 2021 --- equipos descubiertos=1
+mi. jul. 7 12:58:55 2021 --- equipos descubiertos=1
+mi. jul. 7 13:15:05 2021 --- equipos descubiertos=1
+mi. jul. 7 13:20:18 2021 --- equipos descubiertos=1
+mi. jul. 7 14:45:37 2021 --- equipos descubiertos=1
+mi. jul. 7 14:46:48 2021 --- equipos descubiertos=1
+mi. jul. 7 15:05:51 2021 --- equipos descubiertos=1
+mi. jul. 7 15:12:14 2021 --- equipos descubiertos=1
+mi. jul. 7 15:13:11 2021 --- equipos descubiertos=1
+mi. jul. 7 15:14:48 2021 --- dropped
+mi. jul. 7 15:14:48 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:14:48 2021 --- configs diferentes
+mi. jul. 7 15:14:48 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:14:51 2021 --- Config update
+mi. jul. 7 15:14:51 2021 --- equipos descubiertos=1
+mi. jul. 7 15:14:51 2021 --- patterns=1
+mi. jul. 7 15:14:51 2021 --- configs=1
+mi. jul. 7 15:14:51 2021 --- apps=1
+mi. jul. 7 15:15:49 2021 --- Config update
+mi. jul. 7 15:15:49 2021 --- equipos descubiertos=1
+mi. jul. 7 15:15:49 2021 --- patterns=1
+mi. jul. 7 15:15:49 2021 --- configs=1
+mi. jul. 7 15:15:49 2021 --- apps=1
+mi. jul. 7 15:17:11 2021 --- equipos descubiertos=1
+mi. jul. 7 15:17:18 2021 --- Config update
+mi. jul. 7 15:17:18 2021 --- equipos descubiertos=1
+mi. jul. 7 15:17:18 2021 --- patterns=1
+mi. jul. 7 15:17:18 2021 --- configs=1
+mi. jul. 7 15:17:18 2021 --- apps=1
+mi. jul. 7 15:17:21 2021 --- dropped
+mi. jul. 7 15:17:21 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:17:21 2021 --- configs diferentes
+mi. jul. 7 15:17:21 2021 --- patterns diferentes
+mi. jul. 7 15:17:21 2021 --- expected hw 53 rev4 but we have not set
+mi. jul. 7 15:17:23 2021 --- Config update
+mi. jul. 7 15:17:23 2021 --- equipos descubiertos=1
+mi. jul. 7 15:17:23 2021 --- patterns=1
+mi. jul. 7 15:17:23 2021 --- configs=1
+mi. jul. 7 15:17:23 2021 --- apps=1
+mi. jul. 7 15:17:43 2021 --- equipos descubiertos=1
+mi. jul. 7 15:17:51 2021 --- dropped
+mi. jul. 7 15:17:51 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:17:51 2021 --- configs diferentes
+mi. jul. 7 15:17:51 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:17:53 2021 --- Config update
+mi. jul. 7 15:17:53 2021 --- equipos descubiertos=1
+mi. jul. 7 15:17:53 2021 --- patterns=1
+mi. jul. 7 15:17:53 2021 --- configs=1
+mi. jul. 7 15:17:53 2021 --- apps=1
+mi. jul. 7 15:18:13 2021 --- dropped
+mi. jul. 7 15:18:13 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:18:13 2021 --- configs diferentes
+mi. jul. 7 15:18:13 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:18:14 2021 --- Config update
+mi. jul. 7 15:18:14 2021 --- equipos descubiertos=1
+mi. jul. 7 15:18:14 2021 --- patterns=1
+mi. jul. 7 15:18:14 2021 --- configs=1
+mi. jul. 7 15:18:14 2021 --- apps=1
+mi. jul. 7 15:18:27 2021 --- equipos descubiertos=1
+mi. jul. 7 15:18:37 2021 --- dropped
+mi. jul. 7 15:18:37 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:18:37 2021 --- configs diferentes
+mi. jul. 7 15:18:37 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:18:38 2021 --- Config update
+mi. jul. 7 15:18:38 2021 --- equipos descubiertos=1
+mi. jul. 7 15:18:38 2021 --- patterns=1
+mi. jul. 7 15:18:38 2021 --- configs=1
+mi. jul. 7 15:18:38 2021 --- apps=1
+mi. jul. 7 15:24:58 2021 --- dropped
+mi. jul. 7 15:24:58 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:24:58 2021 --- configs diferentes
+mi. jul. 7 15:24:58 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:25:04 2021 --- dropped
+mi. jul. 7 15:25:04 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:25:04 2021 --- configs diferentes
+mi. jul. 7 15:25:04 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:25:06 2021 --- Config update
+mi. jul. 7 15:25:06 2021 --- equipos descubiertos=1
+mi. jul. 7 15:25:06 2021 --- patterns=1
+mi. jul. 7 15:25:06 2021 --- configs=1
+mi. jul. 7 15:25:06 2021 --- apps=1
+mi. jul. 7 15:25:19 2021 --- equipos descubiertos=1
+mi. jul. 7 15:25:35 2021 --- dropped
+mi. jul. 7 15:25:35 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:25:35 2021 --- configs diferentes
+mi. jul. 7 15:25:35 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:25:38 2021 --- Config update
+mi. jul. 7 15:25:38 2021 --- equipos descubiertos=1
+mi. jul. 7 15:25:38 2021 --- patterns=1
+mi. jul. 7 15:25:38 2021 --- configs=1
+mi. jul. 7 15:25:38 2021 --- apps=1
+mi. jul. 7 15:25:45 2021 --- equipos descubiertos=1
+mi. jul. 7 15:25:57 2021 --- equipos descubiertos=1
+mi. jul. 7 15:25:58 2021 --- equipos descubiertos=1
+mi. jul. 7 15:26:09 2021 --- dropped
+mi. jul. 7 15:26:09 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:26:09 2021 --- configs diferentes
+mi. jul. 7 15:26:09 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 7 15:26:11 2021 --- Config update
+mi. jul. 7 15:26:11 2021 --- equipos descubiertos=1
+mi. jul. 7 15:26:11 2021 --- patterns=1
+mi. jul. 7 15:26:11 2021 --- configs=1
+mi. jul. 7 15:26:11 2021 --- apps=1
+mi. jul. 7 15:29:11 2021 --- dropped
+mi. jul. 7 15:29:11 2021 --- 1 57 41 56 60 35 86 20 
+mi. jul. 7 15:29:11 2021 --- configs diferentes
+mi. jul. 7 15:29:11 2021 --- patterns diferentes
+mi. jul. 7 15:29:11 2021 --- expected hw 53 rev4 but we have not set
+mi. jul. 7 15:29:13 2021 --- Config update
+mi. jul. 7 15:29:13 2021 --- equipos descubiertos=1
+mi. jul. 7 15:29:13 2021 --- patterns=1
+mi. jul. 7 15:29:13 2021 --- configs=1
+mi. jul. 7 15:29:13 2021 --- apps=1
+ju. jul. 8 09:10:13 2021 --- equipos descubiertos=6
+ju. jul. 8 09:10:22 2021 --- dropped
+ju. jul. 8 09:10:22 2021 --- 56 42 39 32 86 61 dc 48 
+ju. jul. 8 09:10:25 2021 --- dropped
+ju. jul. 8 09:10:25 2021 --- 56 42 39 32 71 27 de 48 
+ju. jul. 8 09:10:25 2021 --- configs diferentes
+ju. jul. 8 09:10:25 2021 --- expected hw 53 rev4 but we have 57 rev2
+ju. jul. 8 09:10:27 2021 --- dropped
+ju. jul. 8 09:10:27 2021 --- 56 42 39 32 68 35 dc 48 
+ju. jul. 8 09:10:30 2021 --- dropped
+ju. jul. 8 09:10:30 2021 --- 56 42 39 32 56 36 d8 48 
+ju. jul. 8 09:10:30 2021 --- configs diferentes
+ju. jul. 8 09:10:33 2021 --- dropped
+ju. jul. 8 09:10:33 2021 --- 56 42 39 32 86 5f dc 48 
+ju. jul. 8 09:10:37 2021 --- dropped
+ju. jul. 8 09:10:37 2021 --- 56 42 39 32 56 34 de 48 
+ju. jul. 8 09:10:43 2021 --- dropped
+ju. jul. 8 09:10:43 2021 --- 56 42 39 32 86 5f dc 48 
+ju. jul. 8 09:10:45 2021 --- dropped
+ju. jul. 8 09:10:45 2021 --- 56 42 39 32 56 36 d8 48 
+ju. jul. 8 09:10:45 2021 --- configs diferentes
+ju. jul. 8 09:10:47 2021 --- dropped
+ju. jul. 8 09:10:47 2021 --- 56 42 39 32 68 35 dc 48 
+ju. jul. 8 09:10:49 2021 --- dropped
+ju. jul. 8 09:10:49 2021 --- 56 42 39 32 71 27 de 48 
+ju. jul. 8 09:10:51 2021 --- dropped
+ju. jul. 8 09:10:51 2021 --- 56 42 39 32 86 61 dc 48 
+ju. jul. 8 09:11:34 2021 --- Config update
+ju. jul. 8 09:11:34 2021 --- equipos descubiertos=6
+ju. jul. 8 09:11:34 2021 --- patterns=6
+ju. jul. 8 09:11:34 2021 --- configs=6
+ju. jul. 8 09:11:34 2021 --- apps=6
+ju. jul. 8 09:28:42 2021 --- equipos descubiertos=6
+ju. jul. 8 09:30:41 2021 --- configs diferentes
+ju. jul. 8 09:30:41 2021 --- patterns diferentes
+ju. jul. 8 09:30:41 2021 --- expected hw not set but we have 53 rev4
+ju. jul. 8 09:30:42 2021 --- configs diferentes
+ju. jul. 8 09:30:42 2021 --- patterns diferentes
+ju. jul. 8 09:30:42 2021 --- expected hw not set but we have 53 rev4
+ju. jul. 8 09:30:43 2021 --- configs diferentes
+ju. jul. 8 09:30:43 2021 --- patterns diferentes
+ju. jul. 8 09:30:43 2021 --- expected hw not set but we have 57 rev2
+ju. jul. 8 09:30:43 2021 --- configs diferentes
+ju. jul. 8 09:30:43 2021 --- patterns diferentes
+ju. jul. 8 09:30:43 2021 --- expected hw not set but we have 53 rev4
+ju. jul. 8 09:30:44 2021 --- configs diferentes
+ju. jul. 8 09:30:44 2021 --- patterns diferentes
+ju. jul. 8 09:30:44 2021 --- expected hw not set but we have 57 rev2
+ju. jul. 8 09:30:47 2021 --- dropped
+ju. jul. 8 09:30:47 2021 --- 56 42 39 32 86 5f dc 48 
+ju. jul. 8 09:30:47 2021 --- configs diferentes
+ju. jul. 8 09:30:47 2021 --- expected hw 57 rev2 but we have 53 rev4
+ju. jul. 8 09:30:49 2021 --- configs diferentes
+ju. jul. 8 09:30:49 2021 --- patterns diferentes
+ju. jul. 8 09:30:49 2021 --- expected hw not set but we have 57 rev2
+ju. jul. 8 09:30:50 2021 --- configs diferentes
+ju. jul. 8 09:30:50 2021 --- patterns diferentes
+ju. jul. 8 09:30:50 2021 --- expected hw not set but we have 53 rev4
+ju. jul. 8 09:30:52 2021 --- dropped
+ju. jul. 8 09:30:52 2021 --- 56 42 39 32 68 35 dc 48 
+ju. jul. 8 09:30:52 2021 --- configs diferentes
+ju. jul. 8 09:30:52 2021 --- expected hw 53 rev4 but we have 57 rev2
+ju. jul. 8 09:30:53 2021 --- Config update
+ju. jul. 8 09:30:53 2021 --- equipos descubiertos=6
+ju. jul. 8 09:30:53 2021 --- patterns=6
+ju. jul. 8 09:30:53 2021 --- configs=6
+ju. jul. 8 09:30:53 2021 --- apps=6
+lu. jul. 26 15:24:53 2021 --- refreshing paths
+lu. jul. 26 15:24:53 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:24:53 2021 --- (".", "..", "bearer", "blecoms.o", "CenterPanel_qml.cpp", "CenterPanel_qml.o", "D3Dcompiler_47.dll", "DragModule_qml.cpp", "DragModule_qml.o", "DropModule_qml.cpp", "DropModule_qml.o", "iconengines", "imageformats", "LatchingButton_qml.cpp", "LatchingButton_qml.o", "LeftMenu_qml.cpp", "LeftMenu_qml.o", "libEGL.dll", "libGLESv2.dll", "log_debug.txt", "log_info.txt", "log_warning.txt", "luxae binaries", "LuxaeGuiQml.exe", "LuxaeGuiQml_resource_res.o", "main.o", "main_qml.cpp", "main_qml.o", "moc_blecoms.cpp", "moc_blecoms.o", "moc_predefs.h", "moc_serialcoms.cpp", "moc_serialcoms.o", "opengl32sw.dll", "platforms", "qmlcache_loader.cpp", "qmlcache_loader.o", "qmltooling", "qrc_qml_qmlcache.cpp", "qrc_qml_qmlcache.o", "qrc_sounds.cpp", "qrc_sounds.o", "Qt5Bluetooth.dll", "Qt5Core.dll", "Qt5Gui.dll", "Qt5Network.dll", "Qt5Qml.dll", "Qt5QmlModels.dll", "Qt5QmlWorkerScript.dll", "Qt5Quick.dll", "Qt5QuickControls2.dll", "Qt5QuickTemplates2.dll", "Qt5RemoteObjects.dll", "Qt5SerialPort.dll", "Qt5Svg.dll", "Qt5Widgets.dll", "QtGraphicalEffects", "QtQml", "QtQuick", "QtQuick.2", "RightMenu_qml.cpp", "RightMenu_qml.o", "serialcoms.o", "SimpleButton_qml.cpp", "SimpleButton_qml.o", "sounds", "styles", "translations")
+lu. jul. 26 15:24:53 2021 --- refreshing paths
+lu. jul. 26 15:24:53 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:24:53 2021 --- (".", "..", "bearer", "blecoms.o", "CenterPanel_qml.cpp", "CenterPanel_qml.o", "D3Dcompiler_47.dll", "DragModule_qml.cpp", "DragModule_qml.o", "DropModule_qml.cpp", "DropModule_qml.o", "iconengines", "imageformats", "LatchingButton_qml.cpp", "LatchingButton_qml.o", "LeftMenu_qml.cpp", "LeftMenu_qml.o", "libEGL.dll", "libGLESv2.dll", "log_debug.txt", "log_info.txt", "log_warning.txt", "luxae binaries", "LuxaeGuiQml.exe", "LuxaeGuiQml_resource_res.o", "main.o", "main_qml.cpp", "main_qml.o", "moc_blecoms.cpp", "moc_blecoms.o", "moc_predefs.h", "moc_serialcoms.cpp", "moc_serialcoms.o", "opengl32sw.dll", "platforms", "qmlcache_loader.cpp", "qmlcache_loader.o", "qmltooling", "qrc_qml_qmlcache.cpp", "qrc_qml_qmlcache.o", "qrc_sounds.cpp", "qrc_sounds.o", "Qt5Bluetooth.dll", "Qt5Core.dll", "Qt5Gui.dll", "Qt5Network.dll", "Qt5Qml.dll", "Qt5QmlModels.dll", "Qt5QmlWorkerScript.dll", "Qt5Quick.dll", "Qt5QuickControls2.dll", "Qt5QuickTemplates2.dll", "Qt5RemoteObjects.dll", "Qt5SerialPort.dll", "Qt5Svg.dll", "Qt5Widgets.dll", "QtGraphicalEffects", "QtQml", "QtQuick", "QtQuick.2", "RightMenu_qml.cpp", "RightMenu_qml.o", "serialcoms.o", "SimpleButton_qml.cpp", "SimpleButton_qml.o", "sounds", "styles", "translations")
+lu. jul. 26 15:26:34 2021 --- refreshing paths
+lu. jul. 26 15:26:34 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:26:34 2021 --- (".", "..", "bearer", "blecoms.o", "CenterPanel_qml.cpp", "CenterPanel_qml.o", "D3Dcompiler_47.dll", "DragModule_qml.cpp", "DragModule_qml.o", "DropModule_qml.cpp", "DropModule_qml.o", "iconengines", "imageformats", "LatchingButton_qml.cpp", "LatchingButton_qml.o", "LeftMenu_qml.cpp", "LeftMenu_qml.o", "libEGL.dll", "libGLESv2.dll", "log_debug.txt", "log_info.txt", "log_warning.txt", "luxae binaries", "LuxaeGuiQml.exe", "LuxaeGuiQml_resource_res.o", "main.o", "main_qml.cpp", "main_qml.o", "moc_blecoms.cpp", "moc_blecoms.o", "moc_predefs.h", "moc_serialcoms.cpp", "moc_serialcoms.o", "opengl32sw.dll", "platforms", "qmlcache_loader.cpp", "qmlcache_loader.o", "qmltooling", "qrc_qml_qmlcache.cpp", "qrc_qml_qmlcache.o", "qrc_sounds.cpp", "qrc_sounds.o", "Qt5Bluetooth.dll", "Qt5Core.dll", "Qt5Gui.dll", "Qt5Network.dll", "Qt5Qml.dll", "Qt5QmlModels.dll", "Qt5QmlWorkerScript.dll", "Qt5Quick.dll", "Qt5QuickControls2.dll", "Qt5QuickTemplates2.dll", "Qt5RemoteObjects.dll", "Qt5SerialPort.dll", "Qt5Svg.dll", "Qt5Widgets.dll", "QtGraphicalEffects", "QtQml", "QtQuick", "QtQuick.2", "RightMenu_qml.cpp", "RightMenu_qml.o", "serialcoms.o", "SimpleButton_qml.cpp", "SimpleButton_qml.o", "sounds", "styles", "translations")
+lu. jul. 26 15:26:34 2021 --- refreshing paths
+lu. jul. 26 15:26:34 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:26:34 2021 --- (".", "..", "bearer", "blecoms.o", "CenterPanel_qml.cpp", "CenterPanel_qml.o", "D3Dcompiler_47.dll", "DragModule_qml.cpp", "DragModule_qml.o", "DropModule_qml.cpp", "DropModule_qml.o", "iconengines", "imageformats", "LatchingButton_qml.cpp", "LatchingButton_qml.o", "LeftMenu_qml.cpp", "LeftMenu_qml.o", "libEGL.dll", "libGLESv2.dll", "log_debug.txt", "log_info.txt", "log_warning.txt", "luxae binaries", "LuxaeGuiQml.exe", "LuxaeGuiQml_resource_res.o", "main.o", "main_qml.cpp", "main_qml.o", "moc_blecoms.cpp", "moc_blecoms.o", "moc_predefs.h", "moc_serialcoms.cpp", "moc_serialcoms.o", "opengl32sw.dll", "platforms", "qmlcache_loader.cpp", "qmlcache_loader.o", "qmltooling", "qrc_qml_qmlcache.cpp", "qrc_qml_qmlcache.o", "qrc_sounds.cpp", "qrc_sounds.o", "Qt5Bluetooth.dll", "Qt5Core.dll", "Qt5Gui.dll", "Qt5Network.dll", "Qt5Qml.dll", "Qt5QmlModels.dll", "Qt5QmlWorkerScript.dll", "Qt5Quick.dll", "Qt5QuickControls2.dll", "Qt5QuickTemplates2.dll", "Qt5RemoteObjects.dll", "Qt5SerialPort.dll", "Qt5Svg.dll", "Qt5Widgets.dll", "QtGraphicalEffects", "QtQml", "QtQuick", "QtQuick.2", "RightMenu_qml.cpp", "RightMenu_qml.o", "serialcoms.o", "SimpleButton_qml.cpp", "SimpleButton_qml.o", "sounds", "styles", "translations")
+lu. jul. 26 15:28:10 2021 --- refreshing paths
+lu. jul. 26 15:28:10 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:28:10 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+lu. jul. 26 15:28:10 2021 --- refreshing paths
+lu. jul. 26 15:28:10 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:28:10 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+lu. jul. 26 15:29:39 2021 --- refreshing paths
+lu. jul. 26 15:29:39 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:29:39 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+lu. jul. 26 15:29:39 2021 --- refreshing paths
+lu. jul. 26 15:29:39 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:29:39 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+lu. jul. 26 15:42:07 2021 --- refreshing paths
+lu. jul. 26 15:42:07 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:42:07 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+lu. jul. 26 15:42:07 2021 --- refreshing paths
+lu. jul. 26 15:42:07 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+lu. jul. 26 15:42:07 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+lu. jul. 26 15:42:08 2021 --- selected ojete
+ma. jul. 27 12:35:28 2021 --- refreshing paths
+ma. jul. 27 12:35:28 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:35:28 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:35:29 2021 --- refreshing paths
+ma. jul. 27 12:35:29 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:35:29 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:35:29 2021 --- refreshing paths
+ma. jul. 27 12:35:29 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:35:29 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:35:29 2021 --- refreshing paths
+ma. jul. 27 12:35:29 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:35:29 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:36:03 2021 --- refreshing paths
+ma. jul. 27 12:36:03 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:36:03 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:36:03 2021 --- refreshing paths
+ma. jul. 27 12:36:03 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:36:03 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:37:14 2021 --- refreshing paths
+ma. jul. 27 12:37:14 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:37:14 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:37:14 2021 --- refreshing paths
+ma. jul. 27 12:37:14 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:37:14 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:37:15 2021 --- selected ojete
+ma. jul. 27 12:37:16 2021 --- refreshing paths
+ma. jul. 27 12:37:16 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:37:16 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:37:16 2021 --- refreshing paths
+ma. jul. 27 12:37:16 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:37:16 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:37:17 2021 --- refreshing paths
+ma. jul. 27 12:37:17 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:37:17 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:37:17 2021 --- refreshing paths
+ma. jul. 27 12:37:17 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:37:17 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:13 2021 --- refreshing paths
+ma. jul. 27 12:41:13 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:13 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:13 2021 --- refreshing paths
+ma. jul. 27 12:41:13 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:13 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:13 2021 --- refreshing paths
+ma. jul. 27 12:41:13 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:13 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:14 2021 --- refreshing paths
+ma. jul. 27 12:41:14 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:14 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:22 2021 --- refreshing paths
+ma. jul. 27 12:41:22 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:22 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:22 2021 --- refreshing paths
+ma. jul. 27 12:41:22 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:22 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:23 2021 --- refreshing paths
+ma. jul. 27 12:41:23 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:23 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:41:23 2021 --- refreshing paths
+ma. jul. 27 12:41:23 2021 --- "C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release"
+ma. jul. 27 12:41:23 2021 --- (".", "..", "BLcorner.bin", "BRcorner.bin", "config grammar.grammar", "FL55blue.bin", "FLcorner.bin", "FLstraight.bin", "FR55blue.bin", "FRcorner.bin", "FRstraight.bin", "patterns.bin", "v053rev4.bin", "v055rev1.bin", "v057rev2.bin")
+ma. jul. 27 12:43:06 2021 --- refreshing paths
+ma. jul. 27 12:43:06 2021 --- [sprinter6,sprinter9]
+ma. jul. 27 12:43:06 2021 --- refreshing paths
+ma. jul. 27 12:43:06 2021 --- [sprinter6,sprinter9]
+ma. jul. 27 12:43:07 2021 --- selected sprinter6
+ma. jul. 27 12:43:12 2021 --- equipos descubiertos=1
+ma. jul. 27 12:43:14 2021 --- dropped
+ma. jul. 27 12:43:14 2021 --- 56 42 39 32 85 31 d6 48 
+ma. jul. 27 12:43:15 2021 --- Config update
+ma. jul. 27 12:43:15 2021 --- equipos descubiertos=1
+ma. jul. 27 12:43:15 2021 --- patterns=1
+ma. jul. 27 12:43:15 2021 --- configs=1
+ma. jul. 27 12:43:15 2021 --- apps=1
+mi. jul. 28 08:37:18 2021 --- refreshing paths
+mi. jul. 28 08:37:18 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 08:37:18 2021 --- refreshing paths
+mi. jul. 28 08:37:18 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 08:37:19 2021 --- selected sprinter6
+mi. jul. 28 08:37:25 2021 --- equipos descubiertos=2
+mi. jul. 28 08:39:08 2021 --- dropped
+mi. jul. 28 08:39:08 2021 --- e 57 42 46 72 30 81 20 
+mi. jul. 28 08:39:08 2021 --- configs diferentes
+mi. jul. 28 08:39:08 2021 --- expected hw 57 rev2 but we have 57 rev1
+mi. jul. 28 08:39:09 2021 --- dropped
+mi. jul. 28 08:39:09 2021 --- 56 42 39 32 85 31 d6 48 
+mi. jul. 28 08:39:09 2021 --- configs diferentes
+mi. jul. 28 08:39:14 2021 --- Firmware update
+mi. jul. 28 08:39:14 2021 --- equipos descubiertos=2
+mi. jul. 28 08:39:14 2021 --- patterns=2
+mi. jul. 28 08:39:14 2021 --- configs=2
+mi. jul. 28 08:39:14 2021 --- apps=2
+mi. jul. 28 08:39:14 2021 --- hw=2
+mi. jul. 28 08:40:44 2021 --- Firmware update
+mi. jul. 28 08:40:44 2021 --- equipos descubiertos=2
+mi. jul. 28 08:40:44 2021 --- patterns=2
+mi. jul. 28 08:40:44 2021 --- configs=2
+mi. jul. 28 08:40:44 2021 --- apps=2
+mi. jul. 28 08:40:44 2021 --- hw=2
+mi. jul. 28 08:43:28 2021 --- Patterns update
+mi. jul. 28 08:43:28 2021 --- equipos descubiertos=2
+mi. jul. 28 08:43:28 2021 --- patterns=2
+mi. jul. 28 08:43:28 2021 --- configs=2
+mi. jul. 28 08:43:28 2021 --- apps=2
+mi. jul. 28 08:43:28 2021 --- hw=2
+mi. jul. 28 08:50:43 2021 --- Config update
+mi. jul. 28 08:50:43 2021 --- equipos descubiertos=2
+mi. jul. 28 08:50:43 2021 --- patterns=2
+mi. jul. 28 08:50:44 2021 --- configs=2
+mi. jul. 28 08:50:44 2021 --- apps=2
+mi. jul. 28 08:50:44 2021 --- hw=2
+mi. jul. 28 08:58:23 2021 --- equipos descubiertos=2
+mi. jul. 28 08:58:26 2021 --- refreshing paths
+mi. jul. 28 08:58:26 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 08:58:27 2021 --- refreshing paths
+mi. jul. 28 08:58:27 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 08:58:28 2021 --- selected sprinter6
+mi. jul. 28 08:58:32 2021 --- dropped
+mi. jul. 28 08:58:32 2021 --- 56 42 39 32 85 31 d6 48 
+mi. jul. 28 08:58:32 2021 --- configs diferentes
+mi. jul. 28 08:58:32 2021 --- expected hw 57 rev2 but we have 53 rev4
+mi. jul. 28 08:58:34 2021 --- dropped
+mi. jul. 28 08:58:34 2021 --- e 57 42 46 72 30 81 20 
+mi. jul. 28 08:58:34 2021 --- configs diferentes
+mi. jul. 28 08:58:34 2021 --- expected hw 53 rev4 but we have 57 rev1
+mi. jul. 28 11:10:06 2021 --- refreshing paths
+mi. jul. 28 11:10:06 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 11:10:06 2021 --- refreshing paths
+mi. jul. 28 11:10:06 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 11:10:07 2021 --- selected sprinter6
+mi. jul. 28 11:10:11 2021 --- equipos descubiertos=6
+mi. jul. 28 11:10:17 2021 --- configs diferentes
+mi. jul. 28 11:10:17 2021 --- patterns diferentes
+mi. jul. 28 11:10:17 2021 --- expected hw not set but we have 57 rev2
+mi. jul. 28 11:10:19 2021 --- configs diferentes
+mi. jul. 28 11:10:19 2021 --- patterns diferentes
+mi. jul. 28 11:10:19 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 11:10:24 2021 --- configs diferentes
+mi. jul. 28 11:10:24 2021 --- patterns diferentes
+mi. jul. 28 11:10:24 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:26 2021 --- configs diferentes
+mi. jul. 28 11:10:26 2021 --- patterns diferentes
+mi. jul. 28 11:10:26 2021 --- expected hw not set but we have 57 rev2
+mi. jul. 28 11:10:28 2021 --- configs diferentes
+mi. jul. 28 11:10:28 2021 --- patterns diferentes
+mi. jul. 28 11:10:28 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:29 2021 --- configs diferentes
+mi. jul. 28 11:10:29 2021 --- patterns diferentes
+mi. jul. 28 11:10:29 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:31 2021 --- configs diferentes
+mi. jul. 28 11:10:31 2021 --- patterns diferentes
+mi. jul. 28 11:10:31 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 11:10:33 2021 --- configs diferentes
+mi. jul. 28 11:10:33 2021 --- patterns diferentes
+mi. jul. 28 11:10:33 2021 --- expected hw not set but we have 57 rev2
+mi. jul. 28 11:10:34 2021 --- configs diferentes
+mi. jul. 28 11:10:34 2021 --- patterns diferentes
+mi. jul. 28 11:10:34 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 11:10:36 2021 --- configs diferentes
+mi. jul. 28 11:10:36 2021 --- patterns diferentes
+mi. jul. 28 11:10:36 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:37 2021 --- configs diferentes
+mi. jul. 28 11:10:37 2021 --- patterns diferentes
+mi. jul. 28 11:10:37 2021 --- expected hw not set but we have 57 rev2
+mi. jul. 28 11:10:38 2021 --- configs diferentes
+mi. jul. 28 11:10:38 2021 --- patterns diferentes
+mi. jul. 28 11:10:38 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:41 2021 --- configs diferentes
+mi. jul. 28 11:10:41 2021 --- patterns diferentes
+mi. jul. 28 11:10:41 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:41 2021 --- configs diferentes
+mi. jul. 28 11:10:41 2021 --- patterns diferentes
+mi. jul. 28 11:10:41 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 11:10:43 2021 --- configs diferentes
+mi. jul. 28 11:10:43 2021 --- patterns diferentes
+mi. jul. 28 11:10:43 2021 --- expected hw not set but we have 57 rev2
+mi. jul. 28 11:12:26 2021 --- dropped
+mi. jul. 28 11:12:26 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 11:12:30 2021 --- dropped
+mi. jul. 28 11:12:30 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 11:12:30 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 11:12:32 2021 --- dropped
+mi. jul. 28 11:12:32 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 11:12:35 2021 --- dropped
+mi. jul. 28 11:12:35 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 11:12:37 2021 --- dropped
+mi. jul. 28 11:12:37 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 11:12:40 2021 --- dropped
+mi. jul. 28 11:12:40 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 11:12:43 2021 --- Firmware update
+mi. jul. 28 11:12:43 2021 --- equipos descubiertos=6
+mi. jul. 28 11:12:43 2021 --- patterns=6
+mi. jul. 28 11:12:43 2021 --- configs=6
+mi. jul. 28 11:12:43 2021 --- apps=6
+mi. jul. 28 11:12:43 2021 --- hw=6
+mi. jul. 28 11:15:58 2021 --- Config update
+mi. jul. 28 11:15:58 2021 --- equipos descubiertos=6
+mi. jul. 28 11:15:58 2021 --- patterns=6
+mi. jul. 28 11:15:58 2021 --- configs=6
+mi. jul. 28 11:15:58 2021 --- apps=6
+mi. jul. 28 11:15:58 2021 --- hw=6
+mi. jul. 28 11:17:13 2021 --- refreshing paths
+mi. jul. 28 11:17:13 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 11:17:13 2021 --- refreshing paths
+mi. jul. 28 11:17:13 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 11:17:14 2021 --- selected sprinter6
+mi. jul. 28 11:17:17 2021 --- equipos descubiertos=5
+mi. jul. 28 11:22:20 2021 --- equipos descubiertos=5
+mi. jul. 28 11:23:53 2021 --- equipos descubiertos=5
+mi. jul. 28 11:24:06 2021 --- Firmware update
+mi. jul. 28 11:24:06 2021 --- equipos descubiertos=5
+mi. jul. 28 11:24:06 2021 --- patterns=5
+mi. jul. 28 11:24:06 2021 --- configs=5
+mi. jul. 28 11:24:06 2021 --- apps=5
+mi. jul. 28 11:24:06 2021 --- hw=5
+mi. jul. 28 11:24:16 2021 --- equipos descubiertos=5
+mi. jul. 28 11:24:20 2021 --- dropped
+mi. jul. 28 11:24:20 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 11:24:20 2021 --- configs diferentes
+mi. jul. 28 11:24:20 2021 --- patterns diferentes
+mi. jul. 28 11:24:20 2021 --- expected hw 53 rev4 but we have BOOTLOADER072
+mi. jul. 28 11:24:21 2021 --- Firmware update
+mi. jul. 28 11:24:21 2021 --- equipos descubiertos=5
+mi. jul. 28 11:24:21 2021 --- patterns=5
+mi. jul. 28 11:24:21 2021 --- configs=5
+mi. jul. 28 11:24:21 2021 --- apps=5
+mi. jul. 28 11:24:21 2021 --- hw=5
+mi. jul. 28 11:25:04 2021 --- Config update
+mi. jul. 28 11:25:04 2021 --- equipos descubiertos=5
+mi. jul. 28 11:25:04 2021 --- patterns=5
+mi. jul. 28 11:25:04 2021 --- configs=5
+mi. jul. 28 11:25:04 2021 --- apps=5
+mi. jul. 28 11:25:04 2021 --- hw=5
+mi. jul. 28 11:25:14 2021 --- Patterns update
+mi. jul. 28 11:25:14 2021 --- equipos descubiertos=5
+mi. jul. 28 11:25:14 2021 --- patterns=5
+mi. jul. 28 11:25:14 2021 --- configs=5
+mi. jul. 28 11:25:14 2021 --- apps=5
+mi. jul. 28 11:25:14 2021 --- hw=5
+mi. jul. 28 11:25:28 2021 --- equipos descubiertos=5
+mi. jul. 28 11:25:35 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 11:25:39 2021 --- dropped
+mi. jul. 28 11:25:39 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 11:25:42 2021 --- dropped
+mi. jul. 28 11:25:42 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 11:25:44 2021 --- dropped
+mi. jul. 28 11:25:44 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 11:25:46 2021 --- dropped
+mi. jul. 28 11:25:46 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 11:28:00 2021 --- equipos descubiertos=6
+mi. jul. 28 11:28:05 2021 --- dropped
+mi. jul. 28 11:28:05 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 11:28:05 2021 --- configs diferentes
+mi. jul. 28 11:28:05 2021 --- patterns diferentes
+mi. jul. 28 11:28:05 2021 --- expected hw 53 rev4 but we have BOOTLOADER105
+mi. jul. 28 11:28:06 2021 --- Firmware update
+mi. jul. 28 11:28:06 2021 --- equipos descubiertos=6
+mi. jul. 28 11:28:06 2021 --- patterns=6
+mi. jul. 28 11:28:06 2021 --- configs=6
+mi. jul. 28 11:28:06 2021 --- apps=6
+mi. jul. 28 11:28:06 2021 --- hw=6
+mi. jul. 28 11:28:52 2021 --- Config update
+mi. jul. 28 11:28:52 2021 --- equipos descubiertos=6
+mi. jul. 28 11:28:52 2021 --- patterns=6
+mi. jul. 28 11:28:52 2021 --- configs=6
+mi. jul. 28 11:28:52 2021 --- apps=6
+mi. jul. 28 11:28:52 2021 --- hw=6
+mi. jul. 28 11:29:08 2021 --- Patterns update
+mi. jul. 28 11:29:08 2021 --- equipos descubiertos=6
+mi. jul. 28 11:29:08 2021 --- patterns=6
+mi. jul. 28 11:29:08 2021 --- configs=6
+mi. jul. 28 11:29:08 2021 --- apps=6
+mi. jul. 28 11:29:08 2021 --- hw=6
+mi. jul. 28 11:29:23 2021 --- equipos descubiertos=6
+mi. jul. 28 11:29:33 2021 --- dropped
+mi. jul. 28 11:29:33 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 11:29:35 2021 --- dropped
+mi. jul. 28 11:29:35 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 11:29:37 2021 --- dropped
+mi. jul. 28 11:29:37 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 11:29:39 2021 --- dropped
+mi. jul. 28 11:29:39 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 11:29:39 2021 --- configs diferentes
+mi. jul. 28 11:29:39 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 11:29:42 2021 --- dropped
+mi. jul. 28 11:29:42 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 11:29:42 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 11:29:43 2021 --- dropped
+mi. jul. 28 11:29:43 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 11:29:55 2021 --- Firmware update
+mi. jul. 28 11:29:55 2021 --- equipos descubiertos=6
+mi. jul. 28 11:29:55 2021 --- patterns=6
+mi. jul. 28 11:29:55 2021 --- configs=6
+mi. jul. 28 11:29:55 2021 --- apps=6
+mi. jul. 28 11:29:55 2021 --- hw=6
+mi. jul. 28 11:33:18 2021 --- Config update
+mi. jul. 28 11:33:18 2021 --- equipos descubiertos=6
+mi. jul. 28 11:33:18 2021 --- patterns=6
+mi. jul. 28 11:33:18 2021 --- configs=6
+mi. jul. 28 11:33:18 2021 --- apps=6
+mi. jul. 28 11:33:18 2021 --- hw=6
+mi. jul. 28 11:33:59 2021 --- Patterns update
+mi. jul. 28 11:33:59 2021 --- equipos descubiertos=6
+mi. jul. 28 11:33:59 2021 --- patterns=6
+mi. jul. 28 11:33:59 2021 --- configs=6
+mi. jul. 28 11:33:59 2021 --- apps=6
+mi. jul. 28 11:33:59 2021 --- hw=6
+mi. jul. 28 11:38:29 2021 --- equipos descubiertos=6
+mi. jul. 28 11:38:32 2021 --- refreshing paths
+mi. jul. 28 11:38:32 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 11:38:32 2021 --- refreshing paths
+mi. jul. 28 11:38:32 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 11:38:34 2021 --- selected sprinter6
+mi. jul. 28 11:38:42 2021 --- dropped
+mi. jul. 28 11:38:42 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 11:38:45 2021 --- dropped
+mi. jul. 28 11:38:45 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 11:38:45 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 11:38:47 2021 --- dropped
+mi. jul. 28 11:38:47 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 11:38:47 2021 --- configs diferentes
+mi. jul. 28 11:38:50 2021 --- dropped
+mi. jul. 28 11:38:50 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 11:38:53 2021 --- dropped
+mi. jul. 28 11:38:53 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 11:38:55 2021 --- dropped
+mi. jul. 28 11:38:55 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 11:38:58 2021 --- dropped
+mi. jul. 28 11:38:58 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 11:39:00 2021 --- Config update
+mi. jul. 28 11:39:00 2021 --- equipos descubiertos=6
+mi. jul. 28 11:39:00 2021 --- patterns=6
+mi. jul. 28 11:39:00 2021 --- configs=6
+mi. jul. 28 11:39:00 2021 --- apps=6
+mi. jul. 28 11:39:00 2021 --- hw=6
+mi. jul. 28 11:39:41 2021 --- Patterns update
+mi. jul. 28 11:39:41 2021 --- equipos descubiertos=6
+mi. jul. 28 11:39:41 2021 --- patterns=6
+mi. jul. 28 11:39:41 2021 --- configs=6
+mi. jul. 28 11:39:41 2021 --- apps=6
+mi. jul. 28 11:39:41 2021 --- hw=6
+mi. jul. 28 11:41:16 2021 --- Firmware update
+mi. jul. 28 11:41:16 2021 --- equipos descubiertos=6
+mi. jul. 28 11:41:16 2021 --- patterns=6
+mi. jul. 28 11:41:16 2021 --- configs=6
+mi. jul. 28 11:41:16 2021 --- apps=6
+mi. jul. 28 11:41:17 2021 --- hw=6
+mi. jul. 28 12:05:01 2021 --- equipos descubiertos=5
+mi. jul. 28 12:05:04 2021 --- equipos descubiertos=5
+mi. jul. 28 12:09:06 2021 --- equipos descubiertos=5
+mi. jul. 28 12:14:23 2021 --- equipos descubiertos=6
+mi. jul. 28 12:14:28 2021 --- Firmware update
+mi. jul. 28 12:14:28 2021 --- equipos descubiertos=6
+mi. jul. 28 12:14:28 2021 --- patterns=6
+mi. jul. 28 12:14:28 2021 --- configs=6
+mi. jul. 28 12:14:28 2021 --- apps=6
+mi. jul. 28 12:14:28 2021 --- hw=6
+mi. jul. 28 12:14:50 2021 --- dropped
+mi. jul. 28 12:14:50 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 12:14:52 2021 --- dropped
+mi. jul. 28 12:14:52 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 12:14:52 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 12:14:54 2021 --- dropped
+mi. jul. 28 12:14:54 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 12:14:57 2021 --- dropped
+mi. jul. 28 12:14:57 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 12:14:59 2021 --- dropped
+mi. jul. 28 12:14:59 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 12:15:01 2021 --- dropped
+mi. jul. 28 12:15:01 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 12:15:01 2021 --- configs diferentes
+mi. jul. 28 12:15:01 2021 --- patterns diferentes
+mi. jul. 28 12:15:02 2021 --- Firmware update
+mi. jul. 28 12:15:02 2021 --- equipos descubiertos=6
+mi. jul. 28 12:15:02 2021 --- patterns=6
+mi. jul. 28 12:15:02 2021 --- configs=6
+mi. jul. 28 12:15:02 2021 --- apps=6
+mi. jul. 28 12:15:02 2021 --- hw=6
+mi. jul. 28 12:18:10 2021 --- equipos descubiertos=6
+mi. jul. 28 12:18:16 2021 --- Firmware update
+mi. jul. 28 12:18:16 2021 --- equipos descubiertos=6
+mi. jul. 28 12:18:16 2021 --- patterns=6
+mi. jul. 28 12:18:16 2021 --- configs=6
+mi. jul. 28 12:18:16 2021 --- apps=6
+mi. jul. 28 12:18:16 2021 --- hw=6
+mi. jul. 28 12:21:24 2021 --- equipos descubiertos=6
+mi. jul. 28 12:38:47 2021 --- equipos descubiertos=6
+mi. jul. 28 12:39:04 2021 --- configs diferentes
+mi. jul. 28 12:39:04 2021 --- patterns diferentes
+mi. jul. 28 12:39:04 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 12:39:05 2021 --- configs diferentes
+mi. jul. 28 12:39:05 2021 --- patterns diferentes
+mi. jul. 28 12:39:05 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 12:39:08 2021 --- configs diferentes
+mi. jul. 28 12:39:08 2021 --- patterns diferentes
+mi. jul. 28 12:39:08 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 12:39:09 2021 --- configs diferentes
+mi. jul. 28 12:39:09 2021 --- patterns diferentes
+mi. jul. 28 12:39:09 2021 --- expected hw not set but we have 53 rev3
+mi. jul. 28 12:41:31 2021 --- equipos descubiertos=6
+mi. jul. 28 12:41:39 2021 --- configs diferentes
+mi. jul. 28 12:41:39 2021 --- patterns diferentes
+mi. jul. 28 12:41:39 2021 --- expected hw not set but we have 53 rev4
+mi. jul. 28 12:45:46 2021 --- equipos descubiertos=6
+mi. jul. 28 12:52:27 2021 --- equipos descubiertos=6
+mi. jul. 28 12:55:57 2021 --- equipos descubiertos=6
+mi. jul. 28 12:56:01 2021 --- refreshing paths
+mi. jul. 28 12:56:01 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 12:56:01 2021 --- refreshing paths
+mi. jul. 28 12:56:01 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 12:56:03 2021 --- selected sprinter6
+mi. jul. 28 12:56:07 2021 --- dropped
+mi. jul. 28 12:56:07 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 12:56:07 2021 --- configs diferentes
+mi. jul. 28 12:56:07 2021 --- patterns diferentes
+mi. jul. 28 12:56:10 2021 --- dropped
+mi. jul. 28 12:56:10 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 12:56:10 2021 --- configs diferentes
+mi. jul. 28 12:56:10 2021 --- patterns diferentes
+mi. jul. 28 12:56:10 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 12:56:12 2021 --- dropped
+mi. jul. 28 12:56:12 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 12:56:12 2021 --- configs diferentes
+mi. jul. 28 12:56:12 2021 --- patterns diferentes
+mi. jul. 28 12:56:14 2021 --- dropped
+mi. jul. 28 12:56:14 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 12:56:14 2021 --- configs diferentes
+mi. jul. 28 12:56:14 2021 --- patterns diferentes
+mi. jul. 28 12:56:16 2021 --- dropped
+mi. jul. 28 12:56:16 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 12:56:16 2021 --- configs diferentes
+mi. jul. 28 12:56:16 2021 --- patterns diferentes
+mi. jul. 28 12:56:19 2021 --- dropped
+mi. jul. 28 12:56:19 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 12:56:19 2021 --- configs diferentes
+mi. jul. 28 12:56:19 2021 --- patterns diferentes
+mi. jul. 28 12:56:20 2021 --- Config update
+mi. jul. 28 12:56:20 2021 --- equipos descubiertos=6
+mi. jul. 28 12:56:20 2021 --- patterns=6
+mi. jul. 28 12:56:20 2021 --- configs=6
+mi. jul. 28 12:56:20 2021 --- apps=6
+mi. jul. 28 12:56:20 2021 --- hw=6
+mi. jul. 28 12:57:02 2021 --- Patterns update
+mi. jul. 28 12:57:02 2021 --- equipos descubiertos=6
+mi. jul. 28 12:57:02 2021 --- patterns=6
+mi. jul. 28 12:57:02 2021 --- configs=6
+mi. jul. 28 12:57:02 2021 --- apps=6
+mi. jul. 28 12:57:02 2021 --- hw=6
+mi. jul. 28 12:58:20 2021 --- equipos descubiertos=6
+mi. jul. 28 14:01:00 2021 --- equipos descubiertos=6
+mi. jul. 28 14:01:19 2021 --- refreshing paths
+mi. jul. 28 14:01:19 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 14:01:19 2021 --- refreshing paths
+mi. jul. 28 14:01:19 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 14:01:19 2021 --- selected sprinter6
