@@ -1,0 +1,123 @@
+mi. jul. 28 16:28:07 2021 --- equipos descubiertos=6
+mi. jul. 28 16:33:08 2021 --- dropped
+mi. jul. 28 16:33:08 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 16:33:12 2021 --- dropped
+mi. jul. 28 16:33:12 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 16:33:12 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 16:33:15 2021 --- dropped
+mi. jul. 28 16:33:15 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 16:33:18 2021 --- dropped
+mi. jul. 28 16:33:18 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 16:33:21 2021 --- dropped
+mi. jul. 28 16:33:21 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 16:33:23 2021 --- dropped
+mi. jul. 28 16:33:24 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 16:33:27 2021 --- Firmware update
+mi. jul. 28 16:33:27 2021 --- equipos descubiertos=6
+mi. jul. 28 16:33:27 2021 --- patterns=6
+mi. jul. 28 16:33:27 2021 --- configs=6
+mi. jul. 28 16:33:27 2021 --- apps=6
+mi. jul. 28 16:33:27 2021 --- hw=6
+mi. jul. 28 16:44:42 2021 --- Patterns update
+mi. jul. 28 16:44:42 2021 --- equipos descubiertos=6
+mi. jul. 28 16:44:42 2021 --- patterns=6
+mi. jul. 28 16:44:42 2021 --- configs=6
+mi. jul. 28 16:44:42 2021 --- apps=6
+mi. jul. 28 16:44:42 2021 --- hw=6
+mi. jul. 28 17:06:02 2021 --- equipos descubiertos=6
+mi. jul. 28 17:06:11 2021 --- equipos descubiertos=6
+mi. jul. 28 17:07:41 2021 --- refreshing paths
+mi. jul. 28 17:07:41 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 17:07:41 2021 --- refreshing paths
+mi. jul. 28 17:07:41 2021 --- [sprinter6,sprinter9]
+mi. jul. 28 17:07:42 2021 --- selected sprinter6
+mi. jul. 28 17:07:45 2021 --- equipos descubiertos=6
+mi. jul. 28 17:07:53 2021 --- dropped
+mi. jul. 28 17:07:53 2021 --- 56 42 39 32 86 61 dc 48 
+mi. jul. 28 17:07:53 2021 --- configs diferentes
+mi. jul. 28 17:07:53 2021 --- patterns diferentes
+mi. jul. 28 17:07:55 2021 --- dropped
+mi. jul. 28 17:07:55 2021 --- 56 42 39 32 86 5f dc 48 
+mi. jul. 28 17:07:55 2021 --- configs diferentes
+mi. jul. 28 17:07:55 2021 --- patterns diferentes
+mi. jul. 28 17:07:58 2021 --- dropped
+mi. jul. 28 17:07:58 2021 --- 56 42 39 32 71 27 de 48 
+mi. jul. 28 17:07:58 2021 --- configs diferentes
+mi. jul. 28 17:07:58 2021 --- patterns diferentes
+mi. jul. 28 17:08:00 2021 --- dropped
+mi. jul. 28 17:08:00 2021 --- 56 42 39 32 68 35 dc 48 
+mi. jul. 28 17:08:00 2021 --- configs diferentes
+mi. jul. 28 17:08:00 2021 --- patterns diferentes
+mi. jul. 28 17:08:03 2021 --- dropped
+mi. jul. 28 17:08:03 2021 --- e 57 42 46 74 30 82 20 
+mi. jul. 28 17:08:03 2021 --- configs diferentes
+mi. jul. 28 17:08:03 2021 --- patterns diferentes
+mi. jul. 28 17:08:03 2021 --- expected hw 53 rev4 but we have 53 rev3
+mi. jul. 28 17:08:05 2021 --- dropped
+mi. jul. 28 17:08:05 2021 --- 56 42 39 32 56 36 d8 48 
+mi. jul. 28 17:08:05 2021 --- configs diferentes
+mi. jul. 28 17:08:05 2021 --- patterns diferentes
+mi. jul. 28 17:08:06 2021 --- Config update
+mi. jul. 28 17:08:06 2021 --- equipos descubiertos=6
+mi. jul. 28 17:08:06 2021 --- patterns=6
+mi. jul. 28 17:08:06 2021 --- configs=6
+mi. jul. 28 17:08:06 2021 --- apps=6
+mi. jul. 28 17:08:06 2021 --- hw=6
+mi. jul. 28 17:08:49 2021 --- Patterns update
+mi. jul. 28 17:08:49 2021 --- equipos descubiertos=6
+mi. jul. 28 17:08:49 2021 --- patterns=6
+mi. jul. 28 17:08:49 2021 --- configs=6
+mi. jul. 28 17:08:49 2021 --- apps=6
+mi. jul. 28 17:08:49 2021 --- hw=6
+mi. jul. 28 17:11:45 2021 --- Firmware update
+mi. jul. 28 17:11:45 2021 --- equipos descubiertos=6
+mi. jul. 28 17:11:45 2021 --- patterns=6
+mi. jul. 28 17:11:45 2021 --- configs=6
+mi. jul. 28 17:11:45 2021 --- apps=6
+mi. jul. 28 17:11:45 2021 --- hw=6
+ju. jul. 29 09:54:09 2021 --- refreshing paths
+ju. jul. 29 09:54:09 2021 --- [sprinter6,sprinter9]
+ju. jul. 29 09:54:09 2021 --- refreshing paths
+ju. jul. 29 09:54:09 2021 --- [sprinter6,sprinter9]
+ju. jul. 29 09:54:10 2021 --- selected sprinter6
+ju. jul. 29 09:54:13 2021 --- equipos descubiertos=6
+ju. jul. 29 09:58:01 2021 --- equipos descubiertos=6
+ju. jul. 29 10:03:56 2021 --- equipos descubiertos=6
+ju. jul. 29 10:03:56 2021 --- equipos descubiertos=6
+ju. jul. 29 10:04:06 2021 --- dropped
+ju. jul. 29 10:04:06 2021 --- e 57 42 46 74 30 82 20 
+ju. jul. 29 10:04:06 2021 --- configs diferentes
+ju. jul. 29 10:04:06 2021 --- patterns diferentes
+ju. jul. 29 10:04:06 2021 --- expected hw 53 rev4 but we have 53 rev3
+ju. jul. 29 10:04:08 2021 --- dropped
+ju. jul. 29 10:04:08 2021 --- 56 42 39 32 56 36 d8 48 
+ju. jul. 29 10:04:11 2021 --- dropped
+ju. jul. 29 10:04:11 2021 --- 56 42 39 32 56 36 d8 48 
+ju. jul. 29 10:04:13 2021 --- dropped
+ju. jul. 29 10:04:13 2021 --- 56 42 39 32 56 36 d8 48 
+ju. jul. 29 10:04:15 2021 --- equipos descubiertos=6
+ju. jul. 29 10:04:23 2021 --- equipos descubiertos=6
+ju. jul. 29 10:04:28 2021 --- dropped
+ju. jul. 29 10:04:28 2021 --- 56 42 39 32 56 36 d8 48 
+ju. jul. 29 10:04:30 2021 --- dropped
+ju. jul. 29 10:04:30 2021 --- e 57 42 46 74 30 82 20 
+ju. jul. 29 10:04:30 2021 --- configs diferentes
+ju. jul. 29 10:04:30 2021 --- patterns diferentes
+ju. jul. 29 10:04:30 2021 --- expected hw 53 rev4 but we have 53 rev3
+ju. jul. 29 10:04:32 2021 --- dropped
+ju. jul. 29 10:04:32 2021 --- 56 42 39 32 68 35 dc 48 
+ju. jul. 29 10:04:34 2021 --- dropped
+ju. jul. 29 10:04:34 2021 --- 56 42 39 32 71 27 de 48 
+ju. jul. 29 10:04:34 2021 --- configs diferentes
+ju. jul. 29 10:04:34 2021 --- patterns diferentes
+ju. jul. 29 10:04:37 2021 --- dropped
+ju. jul. 29 10:04:37 2021 --- 56 42 39 32 86 5f dc 48 
+ju. jul. 29 10:04:39 2021 --- dropped
+ju. jul. 29 10:04:39 2021 --- 56 42 39 32 86 61 dc 48 
+ju. jul. 29 10:04:41 2021 --- Patterns update
+ju. jul. 29 10:04:41 2021 --- equipos descubiertos=6
+ju. jul. 29 10:04:41 2021 --- patterns=6
+ju. jul. 29 10:04:41 2021 --- configs=6
+ju. jul. 29 10:04:41 2021 --- apps=6
+ju. jul. 29 10:04:41 2021 --- hw=6
+ju. jul. 29 10:44:02 2021 --- equipos descubiertos=6
