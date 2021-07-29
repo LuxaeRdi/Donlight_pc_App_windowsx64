@@ -1,4 +1,0 @@
-ju. jul. 29 16:03:02 2021 --- QIODevice::write (QSerialPort): device not open
-ju. jul. 29 16:03:02 2021 --- QIODevice::write (QSerialPort): device not open
-ju. jul. 29 16:03:02 2021 --- QIODevice::write (QSerialPort): device not open
-ju. jul. 29 16:03:02 2021 --- QIODevice::write (QSerialPort): device not open
