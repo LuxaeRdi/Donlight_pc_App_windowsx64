@@ -1,0 +1,5 @@
+.log_info.txt
+.log_debug.txt
+.log_warning.txt
+.log_critical.txt
+.log_fatal.txt
