@@ -11,8 +11,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 2
-                configName: "FLcorner.bin"
-                patternName: "patterns.bin"
+                configName: "FLcornerDaftruck.bin"
+                patternName: "patternsDAFtruck.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -21,8 +21,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 3
-                configName: "FLstraight.bin"
-                patternName: "patterns.bin"
+                configName: "FLstraightDaftruck.bin"
+                patternName: "patternsDAFtruck.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
             }
@@ -41,8 +41,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 4
-                configName: "FRstraight.bin"
-                patternName: "patterns.bin"
+                configName: "FRstraightDaftruck.bin"
+                patternName: "patternsDAFtruck.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
             }
@@ -51,8 +51,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 5
-                configName: "FRcorner.bin"
-                patternName: "patterns.bin"
+                configName: "FRcornerDaftruck.bin"
+                patternName: "patternsDAFtruck.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -61,8 +61,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 1
-                configName: "BLcorner.bin"
-                patternName: "patterns.bin"
+                configName: "BLcornerDaftruck.bin"
+                patternName: "patternsDAFtruck.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -91,8 +91,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 6
-                configName: "BRcorner.bin"
-                patternName: "patterns.bin"
+                configName: "BRcornerDaftruck.bin"
+                patternName: "patternsDAFtruck.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
