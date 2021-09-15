@@ -11,8 +11,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 2
-                configName: "FLcornerRearArrow.bin"
-                patternName: "patternsRearArrow.bin"
+                configName: "FLcornerA.bin"
+                patternName: "pattArrow.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -31,8 +31,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 3
-                configName: "FRcornerRearArrow.bin"
-                patternName: "patternsRearArrow.bin"
+                configName: "FRcornerA.bin"
+                patternName: "pattArrow.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -41,8 +41,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 1
-                configName: "BLcornerRearArrow.bin"
-                patternName: "patternsRearArrow.bin"
+                configName: "BLcorner.bin"
+                patternName: "pattArrow.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -51,8 +51,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 6
-                configName: "BLstraightRearArrow.bin"
-                patternName: "patternsRearArrow.bin"
+                configName: "BLstraightA.bin"
+                patternName: "pattArrow.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
             }
@@ -61,8 +61,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 5
-                configName: "BRstraightRearArrow.bin"
-                patternName: "patternsRearArrow.bin"
+                configName: "BRstraightA.bin"
+                patternName: "pattArrow.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
             }
@@ -72,8 +72,8 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 4
-                configName: "BRcornerRearArrow.bin"
-                patternName: "patternsRearArrow.bin"
+                configName: "BRcorner.bin"
+                patternName: "pattArrow.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
