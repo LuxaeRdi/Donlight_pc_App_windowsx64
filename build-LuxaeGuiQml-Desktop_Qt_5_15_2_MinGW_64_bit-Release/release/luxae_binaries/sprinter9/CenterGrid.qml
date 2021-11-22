@@ -27,20 +27,15 @@ Grid{
         hwName:"55 rev1"
     }
 
-    DropModule{
+    Item{//spacer
         height:parent.height/parent.rows
         width:parent.width/parent.columns
-        number: 4
-        configName: "CentreWithEmitter.bin"
-        patternName: "patterns.bin"
-        appName: "v055rev1.bin"
-        hwName:"55 rev1"
     }
 
     DropModule{
         height:parent.height/parent.rows
         width:parent.width/parent.columns
-        number: 5
+        number: 4
         configName: "FrontRight.bin"
         patternName: "patterns.bin"
         appName: "v055rev1.bin"
@@ -50,7 +45,7 @@ Grid{
     DropModule{
         height:parent.height/parent.rows
         width:parent.width/parent.columns
-        number: 6
+        number: 5
         configName: "Corner3.bin"
         patternName: "patterns.bin"
         appName: "v053rev4.bin"
@@ -67,14 +62,9 @@ Grid{
         hwName:"53 rev4"
     }
 
-    DropModule{
+    Item{//spacer
         height:parent.height/parent.rows
         width:parent.width/parent.columns
-        number: 9
-        configName: "RearLeftWorklight.bin"
-        patternName: "patterns.bin"
-        appName: "v055rev1.bin"
-        hwName:"55 rev1"
     }
 
     Item{//spacer
@@ -82,14 +72,9 @@ Grid{
         width:parent.width/parent.columns
     }
 
-    DropModule{
+    Item{//spacer
         height:parent.height/parent.rows
         width:parent.width/parent.columns
-        number: 8
-        configName: "RearRightWorklight.bin"
-        patternName: "patterns.bin"
-        appName: "v055rev1.bin"
-        hwName:"55 rev1"
     }
 
     DropModule{
