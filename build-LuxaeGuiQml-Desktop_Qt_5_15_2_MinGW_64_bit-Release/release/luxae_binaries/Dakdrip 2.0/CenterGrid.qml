@@ -12,7 +12,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 2
                 configName: "FLcornerA.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowaw.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -32,7 +32,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 3
                 configName: "FRcornerA.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowaw.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -42,7 +42,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 1
                 configName: "BLcorner.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowaw.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
@@ -52,7 +52,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 6
                 configName: "BLstraightA.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowaw.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
             }
@@ -62,7 +62,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 5
                 configName: "BRstraightA.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowaw.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
             }
@@ -73,7 +73,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 4
                 configName: "BRcorner.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowaw.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }
