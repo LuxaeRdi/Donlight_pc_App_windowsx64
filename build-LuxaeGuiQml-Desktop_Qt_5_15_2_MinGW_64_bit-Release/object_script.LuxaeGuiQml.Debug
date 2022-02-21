@@ -1,3 +1,4 @@
+debug/blecoms.o
 debug/main.o
 debug/serialcoms.o
 debug/DragModule_qml.o
@@ -10,4 +11,5 @@ debug/SimpleButton_qml.o
 debug/CenterPanel_qml.o
 debug/qmlcache_loader.o
 debug/qrc_qml_qmlcache.o
+debug/moc_blecoms.o
 debug/moc_serialcoms.o

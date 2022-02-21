@@ -1,3 +1,4 @@
+release/blecoms.o
 release/main.o
 release/serialcoms.o
 release/DragModule_qml.o
@@ -10,4 +11,5 @@ release/SimpleButton_qml.o
 release/CenterPanel_qml.o
 release/qmlcache_loader.o
 release/qrc_qml_qmlcache.o
+release/moc_blecoms.o
 release/moc_serialcoms.o
