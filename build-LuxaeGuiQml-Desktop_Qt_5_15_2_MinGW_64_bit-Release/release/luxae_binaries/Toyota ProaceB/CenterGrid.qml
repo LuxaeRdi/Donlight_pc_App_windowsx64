@@ -11,7 +11,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 1
-                configName: "FLcorner.bin"
+                configName: "FLcornerB.bin"
                 patternName: "patternsabw.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
@@ -21,7 +21,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 2
-                configName: "FLstraight.bin"
+                configName: "FLstraightB.bin"
                 patternName: "patternsb.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
@@ -31,7 +31,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 3
-                configName: "FRstraight.bin"
+                configName: "FRstraightB.bin"
                 patternName: "patternsb.bin"
                 appName: "v057rev2.bin"
                 hwName:"57 rev2"
@@ -41,7 +41,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 4
-                configName: "FRcorner.bin"
+                configName: "FRcornerB.bin"
                 patternName: "patternsabw.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
@@ -51,7 +51,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 8
-                configName: "LBstraight3.bin"
+                configName: "LBstraight3B.bin"
                 patternName: "patternsb.bin"
                 appName: "v055rev1.bin"
                 hwName:"55 rev1"
@@ -71,7 +71,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 5
-                configName: "RBstraight3.bin"
+                configName: "RBstraight3B.bin"
                 patternName: "patternsb.bin"
                 appName: "v055rev1.bin"
                 hwName:"55 rev1"
@@ -81,7 +81,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 7
-                configName: "BLcorner.bin"
+                configName: "BLcornerB.bin"
                 patternName: "patternsab.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
@@ -102,7 +102,7 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 6
-                configName: "BRcorner.bin"
+                configName: "BRcornerB.bin"
                 patternName: "patternsab.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
