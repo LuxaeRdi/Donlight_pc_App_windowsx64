@@ -2,16 +2,28 @@
 :: checks if there is any changes in the repo, if there are downloads the changes
 ::
 ::===============================================================
-@echo: Hello :), checking for updates....
+::===============================================================
+:: checks if there is any changes in the repo, if there are downloads the changes
+::
+::===============================================================
+@echo: Hello :), checking for updates...
 @echo:
 @echo:
 @echo:
-@echo: fetching repository changes....
+@echo: initialising git ...
+@git init
+
+@echo: linking remote origins ...
+@git remote add origin https://github.com/javierMLuxae/Donlight_pc_App_windowsx64
+@git branch --set-upstream-to=origin/<branch> master
+@git add .
+
+@echo: fetching repository changes...
 @git fetch > fetchCommandResult
 @echo:
 @echo:
 @echo:
-@echo: status of the commit....
+@echo: status of the commit...
 @git status -uno > statusCommandResult
 @echo:
 @echo:
@@ -34,7 +46,7 @@
 	@echo: I was able to reach the github webpage...
 	@echo:
 	git reset --hard
-	git pull
+	git pull origin master
 	pause
 	
 	
