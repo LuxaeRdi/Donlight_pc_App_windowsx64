@@ -13,7 +13,7 @@ Grid{
         number: 1
         configName: "FLcorner.bin"
         patternName: "pattBOXMBb.bin"
-        appName: "v053rev4.bin"
+        appName: "53 rev4.bin"
         hwName:"53 rev4"
     }
 
@@ -23,7 +23,7 @@ Grid{
         number: 2
         configName: "FLstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -33,7 +33,7 @@ Grid{
         number: 3
         configName: "FLstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -43,7 +43,7 @@ Grid{
         number: 4
         configName: "FRstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -53,7 +53,7 @@ Grid{
         number: 5
         configName: "FRstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -63,7 +63,7 @@ Grid{
         number: 6
         configName: "FRcorner.bin"
         patternName: "pattBOXMBb.bin"
-        appName: "v053rev4.bin"
+        appName: "53 rev4.bin"
         hwName:"53 rev4"
     }
 
@@ -74,7 +74,7 @@ Grid{
         number: 20
         configName: "LFstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -104,7 +104,7 @@ Grid{
         number: 7
         configName: "RFstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -115,7 +115,7 @@ Grid{
         number: 19
         configName: "LFstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -145,7 +145,7 @@ Grid{
         number: 8
         configName: "RFstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -155,7 +155,7 @@ Grid{
         number: 18
         configName: "LBstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -185,7 +185,7 @@ Grid{
         number: 9
         configName: "RBstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -195,7 +195,7 @@ Grid{
         number: 17
         configName: "LBstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -225,7 +225,7 @@ Grid{
         number: 10
         configName: "RBstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -235,7 +235,7 @@ Grid{
         number: 16
         configName: "BLcorner.bin"
         patternName: "pattBOXMBb.bin"
-        appName: "v053rev4.bin"
+        appName: "53 rev4.bin"
         hwName:"53 rev4"
     }
 
@@ -245,7 +245,7 @@ Grid{
         number: 15
         configName: "BLstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -255,7 +255,7 @@ Grid{
         number: 14
         configName: "BLstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -265,7 +265,7 @@ Grid{
         number: 13
         configName: "BRstraight6.bin"
         patternName: "pattBOXMBab.bin"
-        appName: "v057rev2.bin"
+        appName: "57 rev2.bin"
         hwName:"57 rev2"
     }
 
@@ -275,7 +275,7 @@ Grid{
         number: 12
         configName: "BRstraight3.bin"
         patternName: "pattBOXMBbw.bin"
-        appName: "v055rev1.bin"
+        appName: "55 rev1.bin"
         hwName:"55 rev1"
     }
 
@@ -285,7 +285,7 @@ Grid{
         number: 11
         configName: "BRcorner.bin"
         patternName: "pattBOXMBb.bin"
-        appName: "v053rev4.bin"
+        appName: "53 rev4.bin"
         hwName:"53 rev4"
     }
 }

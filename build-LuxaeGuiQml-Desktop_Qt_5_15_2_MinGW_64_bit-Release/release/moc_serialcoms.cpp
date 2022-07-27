@@ -22,8 +22,8 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_serialCOMs_t {
-    QByteArrayData data[65];
-    char stringdata0[981];
+    QByteArrayData data[67];
+    char stringdata0[1029];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -67,36 +67,38 @@ QT_MOC_LITERAL(31, 381, 23), // "timeoutCOMportsDiscover"
 QT_MOC_LITERAL(32, 405, 23), // "timeoutDonLightDiscover"
 QT_MOC_LITERAL(33, 429, 21), // "timeoutTurningsignals"
 QT_MOC_LITERAL(34, 451, 17), // "writesetupfolders"
-QT_MOC_LITERAL(35, 469, 15), // "setsetupfolders"
-QT_MOC_LITERAL(36, 485, 16), // "newselectedSetup"
-QT_MOC_LITERAL(37, 502, 10), // "openSerial"
-QT_MOC_LITERAL(38, 513, 11), // "closeSerial"
-QT_MOC_LITERAL(39, 525, 17), // "writeSerialString"
-QT_MOC_LITERAL(40, 543, 14), // "fowardto_qInfo"
-QT_MOC_LITERAL(41, 558, 20), // "writeSerialbytearray"
-QT_MOC_LITERAL(42, 579, 30), // "updatejustdataVirtualButtonPad"
-QT_MOC_LITERAL(43, 610, 21), // "cleanVirtualButtonPad"
-QT_MOC_LITERAL(44, 632, 22), // "updateVirtualButtonPad"
-QT_MOC_LITERAL(45, 655, 17), // "discoverDONLIGHTS"
-QT_MOC_LITERAL(46, 673, 21), // "getInfoOfAllDONLIGHTS"
-QT_MOC_LITERAL(47, 695, 26), // "enterbootmodeOfOneDONLIGHT"
-QT_MOC_LITERAL(48, 722, 4), // "uuid"
-QT_MOC_LITERAL(49, 727, 23), // "flashERASEOfOneDONLIGHT"
-QT_MOC_LITERAL(50, 751, 20), // "updateOfAllDONLIGHTS"
-QT_MOC_LITERAL(51, 772, 5), // "uuids"
-QT_MOC_LITERAL(52, 778, 18), // "patterns_filenames"
-QT_MOC_LITERAL(53, 797, 17), // "configs_filenames"
-QT_MOC_LITERAL(54, 815, 12), // "fw_filenames"
-QT_MOC_LITERAL(55, 828, 2), // "hw"
-QT_MOC_LITERAL(56, 831, 14), // "typeofbinaries"
-QT_MOC_LITERAL(57, 846, 19), // "updateOfoneDONLIGHT"
-QT_MOC_LITERAL(58, 866, 17), // "patterns_filename"
-QT_MOC_LITERAL(59, 884, 16), // "configs_filename"
-QT_MOC_LITERAL(60, 901, 11), // "fw_filename"
-QT_MOC_LITERAL(61, 913, 22), // "typeofbinaries_command"
-QT_MOC_LITERAL(62, 936, 14), // "turningsignals"
-QT_MOC_LITERAL(63, 951, 13), // "turningsignal"
-QT_MOC_LITERAL(64, 965, 15) // "getinternaltemp"
+QT_MOC_LITERAL(35, 469, 30), // "sendingSloweredChoppedSeriaUSB"
+QT_MOC_LITERAL(36, 500, 15), // "setsetupfolders"
+QT_MOC_LITERAL(37, 516, 16), // "newselectedSetup"
+QT_MOC_LITERAL(38, 533, 10), // "openSerial"
+QT_MOC_LITERAL(39, 544, 11), // "closeSerial"
+QT_MOC_LITERAL(40, 556, 17), // "writeSerialString"
+QT_MOC_LITERAL(41, 574, 14), // "fowardto_qInfo"
+QT_MOC_LITERAL(42, 589, 20), // "writeSerialbytearray"
+QT_MOC_LITERAL(43, 610, 30), // "updatejustdataVirtualButtonPad"
+QT_MOC_LITERAL(44, 641, 21), // "cleanVirtualButtonPad"
+QT_MOC_LITERAL(45, 663, 22), // "updateVirtualButtonPad"
+QT_MOC_LITERAL(46, 686, 17), // "discoverDONLIGHTS"
+QT_MOC_LITERAL(47, 704, 21), // "getInfoOfAllDONLIGHTS"
+QT_MOC_LITERAL(48, 726, 26), // "enterbootmodeOfOneDONLIGHT"
+QT_MOC_LITERAL(49, 753, 4), // "uuid"
+QT_MOC_LITERAL(50, 758, 23), // "flashERASEOfOneDONLIGHT"
+QT_MOC_LITERAL(51, 782, 20), // "updateOfAllDONLIGHTS"
+QT_MOC_LITERAL(52, 803, 5), // "uuids"
+QT_MOC_LITERAL(53, 809, 18), // "patterns_filenames"
+QT_MOC_LITERAL(54, 828, 17), // "configs_filenames"
+QT_MOC_LITERAL(55, 846, 12), // "fw_filenames"
+QT_MOC_LITERAL(56, 859, 2), // "hw"
+QT_MOC_LITERAL(57, 862, 14), // "typeofbinaries"
+QT_MOC_LITERAL(58, 877, 19), // "updateOfoneDONLIGHT"
+QT_MOC_LITERAL(59, 897, 17), // "patterns_filename"
+QT_MOC_LITERAL(60, 915, 16), // "configs_filename"
+QT_MOC_LITERAL(61, 932, 11), // "fw_filename"
+QT_MOC_LITERAL(62, 944, 22), // "typeofbinaries_command"
+QT_MOC_LITERAL(63, 967, 14), // "turningsignals"
+QT_MOC_LITERAL(64, 982, 13), // "turningsignal"
+QT_MOC_LITERAL(65, 996, 15), // "getinternaltemp"
+QT_MOC_LITERAL(66, 1012, 16) // "openFileExplorer"
 
     },
     "serialCOMs\0serialtextreceived\0\0txt\0"
@@ -111,10 +113,10 @@ QT_MOC_LITERAL(64, 965, 15) // "getinternaltemp"
     "setuplist\0updateNewSetup\0path\0"
     "enableqmlbuttons\0enable\0timeoutCOMportsDiscover\0"
     "timeoutDonLightDiscover\0timeoutTurningsignals\0"
-    "writesetupfolders\0setsetupfolders\0"
-    "newselectedSetup\0openSerial\0closeSerial\0"
-    "writeSerialString\0fowardto_qInfo\0"
-    "writeSerialbytearray\0"
+    "writesetupfolders\0sendingSloweredChoppedSeriaUSB\0"
+    "setsetupfolders\0newselectedSetup\0"
+    "openSerial\0closeSerial\0writeSerialString\0"
+    "fowardto_qInfo\0writeSerialbytearray\0"
     "updatejustdataVirtualButtonPad\0"
     "cleanVirtualButtonPad\0updateVirtualButtonPad\0"
     "discoverDONLIGHTS\0getInfoOfAllDONLIGHTS\0"
@@ -125,7 +127,8 @@ QT_MOC_LITERAL(64, 965, 15) // "getinternaltemp"
     "updateOfoneDONLIGHT\0patterns_filename\0"
     "configs_filename\0fw_filename\0"
     "typeofbinaries_command\0turningsignals\0"
-    "turningsignal\0getinternaltemp"
+    "turningsignal\0getinternaltemp\0"
+    "openFileExplorer"
 };
 #undef QT_MOC_LITERAL
 
@@ -135,7 +138,7 @@ static const uint qt_meta_data_serialCOMs[] = {
        8,       // revision
        0,       // classname
        0,    0, // classinfo
-      35,   14, // methods
+      37,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -143,43 +146,45 @@ static const uint qt_meta_data_serialCOMs[] = {
       12,       // signalCount
 
  // signals: name, argc, parameters, tag, flags
-       1,    1,  189,    2, 0x06 /* Public */,
-       4,    1,  192,    2, 0x06 /* Public */,
-       5,    2,  195,    2, 0x06 /* Public */,
-       8,    0,  200,    2, 0x06 /* Public */,
-       9,    0,  201,    2, 0x06 /* Public */,
-      10,    2,  202,    2, 0x06 /* Public */,
-      13,    7,  207,    2, 0x06 /* Public */,
-      21,    4,  222,    2, 0x06 /* Public */,
-      24,    0,  231,    2, 0x06 /* Public */,
-      25,    1,  232,    2, 0x06 /* Public */,
-      27,    1,  235,    2, 0x06 /* Public */,
-      29,    1,  238,    2, 0x06 /* Public */,
+       1,    1,  199,    2, 0x06 /* Public */,
+       4,    1,  202,    2, 0x06 /* Public */,
+       5,    2,  205,    2, 0x06 /* Public */,
+       8,    0,  210,    2, 0x06 /* Public */,
+       9,    0,  211,    2, 0x06 /* Public */,
+      10,    2,  212,    2, 0x06 /* Public */,
+      13,    7,  217,    2, 0x06 /* Public */,
+      21,    4,  232,    2, 0x06 /* Public */,
+      24,    0,  241,    2, 0x06 /* Public */,
+      25,    1,  242,    2, 0x06 /* Public */,
+      27,    1,  245,    2, 0x06 /* Public */,
+      29,    1,  248,    2, 0x06 /* Public */,
 
  // slots: name, argc, parameters, tag, flags
-      31,    0,  241,    2, 0x08 /* Private */,
-      32,    0,  242,    2, 0x08 /* Private */,
-      33,    0,  243,    2, 0x08 /* Private */,
-      34,    1,  244,    2, 0x08 /* Private */,
-      35,    0,  247,    2, 0x0a /* Public */,
-      36,    1,  248,    2, 0x0a /* Public */,
-      37,    1,  251,    2, 0x0a /* Public */,
-      38,    0,  254,    2, 0x0a /* Public */,
-      39,    2,  255,    2, 0x0a /* Public */,
-      39,    1,  260,    2, 0x2a /* Public | MethodCloned */,
-      41,    2,  263,    2, 0x0a /* Public */,
-      41,    1,  268,    2, 0x2a /* Public | MethodCloned */,
-      42,    1,  271,    2, 0x0a /* Public */,
-      43,    1,  274,    2, 0x0a /* Public */,
-      44,    1,  277,    2, 0x0a /* Public */,
-      45,    0,  280,    2, 0x0a /* Public */,
-      46,    0,  281,    2, 0x0a /* Public */,
-      47,    1,  282,    2, 0x0a /* Public */,
-      49,    1,  285,    2, 0x0a /* Public */,
-      50,    6,  288,    2, 0x0a /* Public */,
-      57,    5,  301,    2, 0x0a /* Public */,
-      62,    1,  312,    2, 0x0a /* Public */,
-      64,    1,  315,    2, 0x0a /* Public */,
+      31,    0,  251,    2, 0x08 /* Private */,
+      32,    0,  252,    2, 0x08 /* Private */,
+      33,    0,  253,    2, 0x08 /* Private */,
+      34,    1,  254,    2, 0x08 /* Private */,
+      35,    0,  257,    2, 0x08 /* Private */,
+      36,    0,  258,    2, 0x0a /* Public */,
+      37,    1,  259,    2, 0x0a /* Public */,
+      38,    1,  262,    2, 0x0a /* Public */,
+      39,    0,  265,    2, 0x0a /* Public */,
+      40,    2,  266,    2, 0x0a /* Public */,
+      40,    1,  271,    2, 0x2a /* Public | MethodCloned */,
+      42,    2,  274,    2, 0x0a /* Public */,
+      42,    1,  279,    2, 0x2a /* Public | MethodCloned */,
+      43,    1,  282,    2, 0x0a /* Public */,
+      44,    1,  285,    2, 0x0a /* Public */,
+      45,    1,  288,    2, 0x0a /* Public */,
+      46,    0,  291,    2, 0x0a /* Public */,
+      47,    0,  292,    2, 0x0a /* Public */,
+      48,    1,  293,    2, 0x0a /* Public */,
+      50,    1,  296,    2, 0x0a /* Public */,
+      51,    6,  299,    2, 0x0a /* Public */,
+      58,    5,  312,    2, 0x0a /* Public */,
+      63,    1,  323,    2, 0x0a /* Public */,
+      65,    1,  326,    2, 0x0a /* Public */,
+      66,    0,  329,    2, 0x0a /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::QVariant,    3,
@@ -201,24 +206,26 @@ static const uint qt_meta_data_serialCOMs[] = {
     QMetaType::Void,
     QMetaType::Void, QMetaType::QStringList,    6,
     QMetaType::Void,
+    QMetaType::Void,
     QMetaType::Void, QMetaType::QString,    6,
     QMetaType::Void, QMetaType::QString,    6,
     QMetaType::Void,
-    QMetaType::Void, QMetaType::QString, QMetaType::Bool,    6,   40,
+    QMetaType::Void, QMetaType::QString, QMetaType::Bool,    6,   41,
     QMetaType::Void, QMetaType::QString,    6,
-    QMetaType::Void, QMetaType::QByteArray, QMetaType::Bool,    6,   40,
+    QMetaType::Void, QMetaType::QByteArray, QMetaType::Bool,    6,   41,
     QMetaType::Void, QMetaType::QByteArray,    6,
     QMetaType::Void, QMetaType::UInt,    6,
     QMetaType::Void, QMetaType::UInt,    6,
     QMetaType::Void, QMetaType::UInt,    6,
     QMetaType::Void,
     QMetaType::Void,
-    QMetaType::Void, QMetaType::QString,   48,
-    QMetaType::Void, QMetaType::QString,   48,
-    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   51,   52,   53,   54,   55,   56,
-    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   48,   58,   59,   60,   61,
-    QMetaType::Void, QMetaType::QString,   63,
-    QMetaType::Void, QMetaType::QString,   48,
+    QMetaType::Void, QMetaType::QString,   49,
+    QMetaType::Void, QMetaType::QString,   49,
+    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   52,   53,   54,   55,   56,   57,
+    QMetaType::Void, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString, QMetaType::QString,   49,   59,   60,   61,   62,
+    QMetaType::Void, QMetaType::QString,   64,
+    QMetaType::Void, QMetaType::QString,   49,
+    QMetaType::Void,
 
        0        // eod
 };
@@ -245,25 +252,27 @@ void serialCOMs::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         case 13: _t->timeoutDonLightDiscover(); break;
         case 14: _t->timeoutTurningsignals(); break;
         case 15: _t->writesetupfolders((*reinterpret_cast< QStringList(*)>(_a[1]))); break;
-        case 16: _t->setsetupfolders(); break;
-        case 17: _t->newselectedSetup((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 18: _t->openSerial((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 19: _t->closeSerial(); break;
-        case 20: _t->writeSerialString((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
-        case 21: _t->writeSerialString((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 22: _t->writeSerialbytearray((*reinterpret_cast< QByteArray(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
-        case 23: _t->writeSerialbytearray((*reinterpret_cast< QByteArray(*)>(_a[1]))); break;
-        case 24: _t->updatejustdataVirtualButtonPad((*reinterpret_cast< uint(*)>(_a[1]))); break;
-        case 25: _t->cleanVirtualButtonPad((*reinterpret_cast< uint(*)>(_a[1]))); break;
-        case 26: _t->updateVirtualButtonPad((*reinterpret_cast< uint(*)>(_a[1]))); break;
-        case 27: _t->discoverDONLIGHTS(); break;
-        case 28: _t->getInfoOfAllDONLIGHTS(); break;
-        case 29: _t->enterbootmodeOfOneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 30: _t->flashERASEOfOneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 31: _t->updateOfAllDONLIGHTS((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5])),(*reinterpret_cast< QString(*)>(_a[6]))); break;
-        case 32: _t->updateOfoneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
-        case 33: _t->turningsignals((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 34: _t->getinternaltemp((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 16: _t->sendingSloweredChoppedSeriaUSB(); break;
+        case 17: _t->setsetupfolders(); break;
+        case 18: _t->newselectedSetup((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 19: _t->openSerial((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 20: _t->closeSerial(); break;
+        case 21: _t->writeSerialString((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
+        case 22: _t->writeSerialString((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 23: _t->writeSerialbytearray((*reinterpret_cast< QByteArray(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2]))); break;
+        case 24: _t->writeSerialbytearray((*reinterpret_cast< QByteArray(*)>(_a[1]))); break;
+        case 25: _t->updatejustdataVirtualButtonPad((*reinterpret_cast< uint(*)>(_a[1]))); break;
+        case 26: _t->cleanVirtualButtonPad((*reinterpret_cast< uint(*)>(_a[1]))); break;
+        case 27: _t->updateVirtualButtonPad((*reinterpret_cast< uint(*)>(_a[1]))); break;
+        case 28: _t->discoverDONLIGHTS(); break;
+        case 29: _t->getInfoOfAllDONLIGHTS(); break;
+        case 30: _t->enterbootmodeOfOneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 31: _t->flashERASEOfOneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 32: _t->updateOfAllDONLIGHTS((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5])),(*reinterpret_cast< QString(*)>(_a[6]))); break;
+        case 33: _t->updateOfoneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
+        case 34: _t->turningsignals((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 35: _t->getinternaltemp((*reinterpret_cast< QString(*)>(_a[1]))); break;
+        case 36: _t->openFileExplorer(); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -384,13 +393,13 @@ int serialCOMs::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 35)
+        if (_id < 37)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 35;
+        _id -= 37;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 35)
+        if (_id < 37)
             *reinterpret_cast<int*>(_a[0]) = -1;
-        _id -= 35;
+        _id -= 37;
     }
     return _id;
 }
