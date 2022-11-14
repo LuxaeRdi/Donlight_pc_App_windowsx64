@@ -14,7 +14,7 @@ Grid{
         number: 1
         configName: "LAPDouble_dimSwitch.bin"
         patternName: "patternsCAPamberblue.bin"
-        appName: "v036rev1_dimSwitch.bin"
+        appName: "36 rev1.bin"
         hwName:"36 rev1"
     }
 
