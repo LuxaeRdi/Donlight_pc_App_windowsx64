@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ufwb version="1.17">
+    <grammar name="config grammar" start="id:3" author="joseg" fileextension="bin">
+        <description>Grammar for BIN files</description>
+        <structure name="header" id="3" encoding="ISO_8859-1:1987" endian="little" signed="no">
+            <string name="descriptor-1" id="6" fillcolor="FF5500" type="fixed-length" length="40" encoding="ISO_8859-1:1987"/>
+            <structure name="canbus ids-1" id="10" length="40" alignment="0" endian="little" fillcolor="AAFFFF">
+                <number name="id1" id="22" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id2" id="23" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id3" id="24" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id4" id="25" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id5" id="26" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id6" id="27" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id7" id="30" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id8" id="31" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id9" id="32" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+                <number name="id10" id="33" fillcolor="AAFFFF" type="integer" length="4" display="hex"/>
+            </structure>
+            <structure name="inpu masks" id="35" length="72" endian="little" fillcolor="FFFF7F">
+                <number name="mask1" id="37" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask2" id="38" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask3" id="39" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask4" id="40" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask5" id="41" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask6" id="42" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask7" id="43" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="maslk8" id="44" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+                <number name="mask9" id="45" fillcolor="FFFF7F" type="integer" length="8" display="hex"/>
+            </structure>
+            <structref name="decoderule1" id="66" structure="id:49"/>
+            <structref name="decoderule2" id="67" structure="id:49"/>
+            <structref name="decoderule3" id="68" structure="id:49"/>
+            <structref name="decoderule4" id="69" structure="id:49"/>
+            <structref name="decoderule5" id="70" structure="id:49"/>
+            <structref name="decoderule6" id="73" structure="id:49"/>
+            <structref name="decoderule7" id="74" structure="id:49"/>
+            <structref name="decoderule8" id="75" structure="id:49"/>
+            <structref name="decoderule9" id="76" structure="id:49"/>
+            <structref name="decoderule10" id="77" structure="id:49"/>
+            <structref name="decoderule11" id="78" structure="id:49"/>
+            <structref name="decoderule12" id="79" structure="id:49"/>
+            <structref name="decoderule13" id="80" structure="id:49"/>
+            <structref name="decoderule14" id="81" structure="id:49"/>
+        </structure>
+        <structure name="decode rule" id="49" length="48" encoding="ISO_8859-1:1987" endian="little" signed="no" strokecolor="FF00FF">
+            <number name="mask input" id="55" fillcolor="FFAA7F" type="integer" length="8" display="hex"/>
+            <string name="descriptor rule" id="56" fillcolor="FFAAFF" type="fixed-length" length="31"/>
+            <number name="slot0 tests" id="57" type="integer" length="1" display="hex"/>
+            <number name="slot2 empty" id="58" type="integer" length="1" display="hex"/>
+            <number name="slot3 empty" id="59" type="integer" length="1" display="hex"/>
+            <number name="slot4 auxiliar" id="60" type="integer" length="1" display="hex"/>
+            <number name="slot5 cruise" id="61" type="integer" length="1" display="hex"/>
+            <number name="slot6 emergency" id="62" type="integer" length="1" display="hex"/>
+            <number name="slot7 strobo" id="63" type="integer" length="1" display="hex"/>
+            <number name="slot8 scene" id="64" type="integer" length="1" display="hex"/>
+            <number name="slot9 turn hazard" id="65" type="integer" length="1" display="hex"/>
+        </structure>
+    </grammar>
+</ufwb>

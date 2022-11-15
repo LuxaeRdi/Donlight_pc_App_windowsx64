@@ -3,7 +3,7 @@
 #include <QtCore/qurl.h>
 
 namespace QmlCacheGeneratedCode {
-namespace _0x5f__CenterPanel_qml { 
+namespace _0x5f__LatchingButton_qml { 
     extern const unsigned char qmlData[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
@@ -21,24 +21,6 @@ namespace _0x5f__main_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
     };
 }
-namespace _0x5f__DropModule_qml { 
-    extern const unsigned char qmlData[];
-    const QQmlPrivate::CachedQmlUnit unit = {
-        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
-    };
-}
-namespace _0x5f__LatchingButton_qml { 
-    extern const unsigned char qmlData[];
-    const QQmlPrivate::CachedQmlUnit unit = {
-        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
-    };
-}
-namespace _0x5f__DragModule_qml { 
-    extern const unsigned char qmlData[];
-    const QQmlPrivate::CachedQmlUnit unit = {
-        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
-    };
-}
 namespace _0x5f__RightMenu_qml { 
     extern const unsigned char qmlData[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -46,6 +28,24 @@ namespace _0x5f__RightMenu_qml {
     };
 }
 namespace _0x5f__LeftMenu_qml { 
+    extern const unsigned char qmlData[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
+    };
+}
+namespace _0x5f__CenterPanel_qml { 
+    extern const unsigned char qmlData[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
+    };
+}
+namespace _0x5f__DropModule_qml { 
+    extern const unsigned char qmlData[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
+    };
+}
+namespace _0x5f__DragModule_qml { 
     extern const unsigned char qmlData[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), nullptr, nullptr
@@ -65,14 +65,14 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 
 Registry::Registry() {
-        resourcePathToCachedUnit.insert(QStringLiteral("/CenterPanel.qml"), &QmlCacheGeneratedCode::_0x5f__CenterPanel_qml::unit);
+        resourcePathToCachedUnit.insert(QStringLiteral("/LatchingButton.qml"), &QmlCacheGeneratedCode::_0x5f__LatchingButton_qml::unit);
         resourcePathToCachedUnit.insert(QStringLiteral("/SimpleButton.qml"), &QmlCacheGeneratedCode::_0x5f__SimpleButton_qml::unit);
         resourcePathToCachedUnit.insert(QStringLiteral("/main.qml"), &QmlCacheGeneratedCode::_0x5f__main_qml::unit);
-        resourcePathToCachedUnit.insert(QStringLiteral("/DropModule.qml"), &QmlCacheGeneratedCode::_0x5f__DropModule_qml::unit);
-        resourcePathToCachedUnit.insert(QStringLiteral("/LatchingButton.qml"), &QmlCacheGeneratedCode::_0x5f__LatchingButton_qml::unit);
-        resourcePathToCachedUnit.insert(QStringLiteral("/DragModule.qml"), &QmlCacheGeneratedCode::_0x5f__DragModule_qml::unit);
         resourcePathToCachedUnit.insert(QStringLiteral("/RightMenu.qml"), &QmlCacheGeneratedCode::_0x5f__RightMenu_qml::unit);
         resourcePathToCachedUnit.insert(QStringLiteral("/LeftMenu.qml"), &QmlCacheGeneratedCode::_0x5f__LeftMenu_qml::unit);
+        resourcePathToCachedUnit.insert(QStringLiteral("/CenterPanel.qml"), &QmlCacheGeneratedCode::_0x5f__CenterPanel_qml::unit);
+        resourcePathToCachedUnit.insert(QStringLiteral("/DropModule.qml"), &QmlCacheGeneratedCode::_0x5f__DropModule_qml::unit);
+        resourcePathToCachedUnit.insert(QStringLiteral("/DragModule.qml"), &QmlCacheGeneratedCode::_0x5f__DragModule_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.version = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

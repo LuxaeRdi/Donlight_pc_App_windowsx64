@@ -1,7 +1,6 @@
-debug/bootloaderhostmachine.o
+debug/blecoms.o
 debug/main.o
-debug/serialclassicbt.o
-debug/serialusb.o
+debug/serialcoms.o
 debug/DragModule_qml.o
 debug/RightMenu_qml.o
 debug/DropModule_qml.o
@@ -12,6 +11,5 @@ debug/SimpleButton_qml.o
 debug/CenterPanel_qml.o
 debug/qmlcache_loader.o
 debug/qrc_qml_qmlcache.o
-debug/moc_bootloaderhostmachine.o
-debug/moc_serialclassicbt.o
-debug/moc_serialusb.o
+debug/moc_blecoms.o
+debug/moc_serialcoms.o
