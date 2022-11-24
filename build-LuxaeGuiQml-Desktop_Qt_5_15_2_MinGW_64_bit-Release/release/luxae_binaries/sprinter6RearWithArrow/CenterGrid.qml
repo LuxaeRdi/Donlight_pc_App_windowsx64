@@ -12,7 +12,7 @@ Grid{
                 width:parent.width/parent.columns
                 number: 2
                 configName: "FLcornerA.bin"
-                patternName: "pattArrow.bin"
+                patternName: "pattArrowA.bin"
                 appName: "v053rev4.bin"
                 hwName:"53 rev4"
             }

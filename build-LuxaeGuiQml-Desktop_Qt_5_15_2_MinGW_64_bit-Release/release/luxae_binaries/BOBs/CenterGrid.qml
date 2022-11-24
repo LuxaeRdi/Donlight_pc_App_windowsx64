@@ -11,9 +11,9 @@ Grid{
                 height:parent.height/parent.rows
                 width:parent.width/parent.columns
                 number: 1
-                configName: "FLcorner.bin"
-                patternName: "patterns.bin"
-                appName: "BOB35_v1_00_07.bin"
+                configName: "none.bin"
+                patternName: "none.bin"
+                appName: "BOB35_v1_01_00.bin"
                 hwName:"BOB35"
             }
 

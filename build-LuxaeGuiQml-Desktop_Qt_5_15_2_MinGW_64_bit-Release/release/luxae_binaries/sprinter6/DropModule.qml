@@ -68,7 +68,7 @@ Item {
 
             }
             Connections{
-                target: serialCOMs
+                target: bootloaderHOSTmachine
                 function onCentergriderase(){
                    background.color="darkgrey"
                    configtext.color="white"
