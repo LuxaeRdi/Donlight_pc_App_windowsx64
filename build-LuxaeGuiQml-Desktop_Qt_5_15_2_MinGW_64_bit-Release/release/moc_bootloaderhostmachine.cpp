@@ -22,13 +22,8 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_bootloaderHOSTmachine_t {
-<<<<<<< HEAD
-    QByteArrayData data[73];
-    char stringdata0[1039];
-=======
     QByteArrayData data[74];
     char stringdata0[1056];
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -102,16 +97,6 @@ QT_MOC_LITERAL(61, 768, 11), // "fw_filename"
 QT_MOC_LITERAL(62, 780, 22), // "typeofbinaries_command"
 QT_MOC_LITERAL(63, 803, 15), // "setsetupfolders"
 QT_MOC_LITERAL(64, 819, 16), // "newselectedSetup"
-<<<<<<< HEAD
-QT_MOC_LITERAL(65, 836, 43), // "BtsocketconnectedNowYoucanask..."
-QT_MOC_LITERAL(66, 880, 19), // "refreshedUSBdevices"
-QT_MOC_LITERAL(67, 900, 18), // "refreshedBTdevices"
-QT_MOC_LITERAL(68, 919, 20), // "turningsignalsToggle"
-QT_MOC_LITERAL(69, 940, 20), // "timeoutdelaydiscover"
-QT_MOC_LITERAL(70, 961, 23), // "timeoutdelaydescriptors"
-QT_MOC_LITERAL(71, 985, 24), // "timeoutbootloaderHosting"
-QT_MOC_LITERAL(72, 1010, 28) // "sendingSloweredChoppedSerial"
-=======
 QT_MOC_LITERAL(65, 836, 16), // "openFileExplorer"
 QT_MOC_LITERAL(66, 853, 43), // "BtsocketconnectedNowYoucanask..."
 QT_MOC_LITERAL(67, 897, 19), // "refreshedUSBdevices"
@@ -121,7 +106,6 @@ QT_MOC_LITERAL(70, 957, 20), // "timeoutdelaydiscover"
 QT_MOC_LITERAL(71, 978, 23), // "timeoutdelaydescriptors"
 QT_MOC_LITERAL(72, 1002, 24), // "timeoutbootloaderHosting"
 QT_MOC_LITERAL(73, 1027, 28) // "sendingSloweredChoppedSerial"
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
     },
     "bootloaderHOSTmachine\0btdeviceclear\0"
@@ -146,11 +130,7 @@ QT_MOC_LITERAL(73, 1027, 28) // "sendingSloweredChoppedSerial"
     "updateOfoneDONLIGHT\0uuid\0patterns_filename\0"
     "configs_filename\0fw_filename\0"
     "typeofbinaries_command\0setsetupfolders\0"
-<<<<<<< HEAD
-    "newselectedSetup\0"
-=======
     "newselectedSetup\0openFileExplorer\0"
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
     "BtsocketconnectedNowYoucanaskfordescriptors\0"
     "refreshedUSBdevices\0refreshedBTdevices\0"
     "turningsignalsToggle\0timeoutdelaydiscover\0"
@@ -166,11 +146,7 @@ static const uint qt_meta_data_bootloaderHOSTmachine[] = {
        8,       // revision
        0,       // classname
        0,    0, // classinfo
-<<<<<<< HEAD
-      40,   14, // methods
-=======
       41,   14, // methods
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -178,50 +154,6 @@ static const uint qt_meta_data_bootloaderHOSTmachine[] = {
       16,       // signalCount
 
  // signals: name, argc, parameters, tag, flags
-<<<<<<< HEAD
-       1,    0,  214,    2, 0x06 /* Public */,
-       3,    0,  215,    2, 0x06 /* Public */,
-       4,    3,  216,    2, 0x06 /* Public */,
-       8,    2,  223,    2, 0x06 /* Public */,
-      10,    0,  228,    2, 0x06 /* Public */,
-      11,    1,  229,    2, 0x06 /* Public */,
-      13,    1,  232,    2, 0x06 /* Public */,
-      14,    7,  235,    2, 0x06 /* Public */,
-      22,    0,  250,    2, 0x06 /* Public */,
-      23,    2,  251,    2, 0x06 /* Public */,
-      24,    0,  256,    2, 0x06 /* Public */,
-      10,    1,  257,    2, 0x06 /* Public */,
-      26,    4,  260,    2, 0x06 /* Public */,
-      30,    0,  269,    2, 0x06 /* Public */,
-      31,    1,  270,    2, 0x06 /* Public */,
-      33,    1,  273,    2, 0x06 /* Public */,
-
- // slots: name, argc, parameters, tag, flags
-      35,    1,  276,    2, 0x0a /* Public */,
-      37,    1,  279,    2, 0x0a /* Public */,
-      38,    1,  282,    2, 0x0a /* Public */,
-      39,    1,  285,    2, 0x0a /* Public */,
-      40,    2,  288,    2, 0x0a /* Public */,
-      40,    1,  293,    2, 0x2a /* Public | MethodCloned */,
-      42,    2,  296,    2, 0x0a /* Public */,
-      42,    1,  301,    2, 0x2a /* Public | MethodCloned */,
-      43,    3,  304,    2, 0x0a /* Public */,
-      46,    0,  311,    2, 0x0a /* Public */,
-      47,    1,  312,    2, 0x0a /* Public */,
-      49,    0,  315,    2, 0x0a /* Public */,
-      50,    6,  316,    2, 0x0a /* Public */,
-      57,    5,  329,    2, 0x0a /* Public */,
-      63,    0,  340,    2, 0x0a /* Public */,
-      64,    1,  341,    2, 0x0a /* Public */,
-      65,    0,  344,    2, 0x08 /* Private */,
-      66,    0,  345,    2, 0x08 /* Private */,
-      67,    0,  346,    2, 0x08 /* Private */,
-      68,    0,  347,    2, 0x08 /* Private */,
-      69,    0,  348,    2, 0x08 /* Private */,
-      70,    0,  349,    2, 0x08 /* Private */,
-      71,    0,  350,    2, 0x08 /* Private */,
-      72,    0,  351,    2, 0x08 /* Private */,
-=======
        1,    0,  219,    2, 0x06 /* Public */,
        3,    0,  220,    2, 0x06 /* Public */,
        4,    3,  221,    2, 0x06 /* Public */,
@@ -265,7 +197,6 @@ static const uint qt_meta_data_bootloaderHOSTmachine[] = {
       71,    0,  355,    2, 0x08 /* Private */,
       72,    0,  356,    2, 0x08 /* Private */,
       73,    0,  357,    2, 0x08 /* Private */,
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
  // signals: parameters
     QMetaType::Void,
@@ -310,10 +241,7 @@ static const uint qt_meta_data_bootloaderHOSTmachine[] = {
     QMetaType::Void,
     QMetaType::Void,
     QMetaType::Void,
-<<<<<<< HEAD
-=======
     QMetaType::Void,
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
        0        // eod
 };
@@ -356,16 +284,6 @@ void bootloaderHOSTmachine::qt_static_metacall(QObject *_o, QMetaObject::Call _c
         case 29: _t->updateOfoneDONLIGHT((*reinterpret_cast< QString(*)>(_a[1])),(*reinterpret_cast< QString(*)>(_a[2])),(*reinterpret_cast< QString(*)>(_a[3])),(*reinterpret_cast< QString(*)>(_a[4])),(*reinterpret_cast< QString(*)>(_a[5]))); break;
         case 30: _t->setsetupfolders(); break;
         case 31: _t->newselectedSetup((*reinterpret_cast< QString(*)>(_a[1]))); break;
-<<<<<<< HEAD
-        case 32: _t->BtsocketconnectedNowYoucanaskfordescriptors(); break;
-        case 33: _t->refreshedUSBdevices(); break;
-        case 34: _t->refreshedBTdevices(); break;
-        case 35: _t->turningsignalsToggle(); break;
-        case 36: _t->timeoutdelaydiscover(); break;
-        case 37: _t->timeoutdelaydescriptors(); break;
-        case 38: _t->timeoutbootloaderHosting(); break;
-        case 39: _t->sendingSloweredChoppedSerial(); break;
-=======
         case 32: _t->openFileExplorer(); break;
         case 33: _t->BtsocketconnectedNowYoucanaskfordescriptors(); break;
         case 34: _t->refreshedUSBdevices(); break;
@@ -375,7 +293,6 @@ void bootloaderHOSTmachine::qt_static_metacall(QObject *_o, QMetaObject::Call _c
         case 38: _t->timeoutdelaydescriptors(); break;
         case 39: _t->timeoutbootloaderHosting(); break;
         case 40: _t->sendingSloweredChoppedSerial(); break;
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -524,15 +441,6 @@ int bootloaderHOSTmachine::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-<<<<<<< HEAD
-        if (_id < 40)
-            qt_static_metacall(this, _c, _id, _a);
-        _id -= 40;
-    } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 40)
-            *reinterpret_cast<int*>(_a[0]) = -1;
-        _id -= 40;
-=======
         if (_id < 41)
             qt_static_metacall(this, _c, _id, _a);
         _id -= 41;
@@ -540,7 +448,6 @@ int bootloaderHOSTmachine::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
         if (_id < 41)
             *reinterpret_cast<int*>(_a[0]) = -1;
         _id -= 41;
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
     }
     return _id;
 }

@@ -162,11 +162,7 @@ compiler_qmlcache_loader_make_all: release/qmlcache_loader.cpp
 compiler_qmlcache_loader_clean:
 	-$(DEL_FILE) release\qmlcache_loader.cpp
 release/qmlcache_loader.cpp: ../LuxaeGuiQml_bluetooth/qml.qrc 
-<<<<<<< HEAD
-	C:\Qt\5.15.2\mingw81_64\bin\qmlcachegen.exe --resource-file-mapping="C:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth/qml.qrc=C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/qml_qmlcache.qrc" -o release\qmlcache_loader.cpp ..\LuxaeGuiQml_bluetooth\qml.qrc
-=======
 	C:\Qt\5.15.2\mingw81_64\bin\qmlcachegen.exe --resource-file-mapping="C:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth/qml.qrc=C:/Users/joseg/Desktop/qtdeveloping/RELEASE BUILD FOR QMLGUI AND BLUETOOTH/qml_qmlcache.qrc" -o release\qmlcache_loader.cpp ..\LuxaeGuiQml_bluetooth\qml.qrc
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
 compiler_no_pch_compiler_make_all:
 compiler_no_pch_compiler_clean:
@@ -183,29 +179,7 @@ release/qrc_qml_qmlcache.cpp: qml_qmlcache.qrc \
 		../LuxaeGuiQml_bluetooth/LatchingButton.qml \
 		../LuxaeGuiQml_bluetooth/main.qml \
 		../LuxaeGuiQml_bluetooth/SimpleButton.qml \
-<<<<<<< HEAD
-		../LuxaeGuiQml_bluetooth/CenterPanel.qml \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/patterns.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FLstraightmasks55blue.bak \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FLstraightmasks55blue.bin.bak \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FRstraightmasks.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/BLcornermasks.bin.bak \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FRstraightmasks55blue.bin.bak \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/dumpworking55FRstraight.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/v053rev4.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FRstraight55blue.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FRcornermasks.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FLcornermasks.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FLstraight55blue.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FLstraightmasks.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/BLcornermasks.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/config\ grammar.grammar \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/BRcornermasks.bin \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/FLstraightmasks55blue \
-		../LuxaeGuiQml_bluetooth/luxae\ binaries/v057rev2.bin
-=======
 		../LuxaeGuiQml_bluetooth/CenterPanel.qml
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 	C:\Qt\5.15.2\mingw81_64\bin\rcc.exe -name qml_qmlcache qml_qmlcache.qrc -o release\qrc_qml_qmlcache.cpp
 
 compiler_moc_predefs_make_all: release/moc_predefs.h
@@ -485,11 +459,7 @@ release/moc_bootloaderhostmachine.cpp: ../LuxaeGuiQml_bluetooth/bootloaderhostma
 		C:/Qt/5.15.2/mingw81_64/include/QtSerialPort/qserialportinfo.h \
 		release/moc_predefs.h \
 		C:/Qt/5.15.2/mingw81_64/bin/moc.exe
-<<<<<<< HEAD
-	C:\Qt\5.15.2\mingw81_64\bin\moc.exe $(DEFINES) --include C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release/moc_predefs.h -IC:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++ -IC:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth -IC:/Qt/5.15.2/mingw81_64/include -IC:/Qt/5.15.2/mingw81_64/include/QtQuick -IC:/Qt/5.15.2/mingw81_64/include/QtMultimedia -IC:/Qt/5.15.2/mingw81_64/include/QtGui -IC:/Qt/5.15.2/mingw81_64/include/QtANGLE -IC:/Qt/5.15.2/mingw81_64/include/QtQmlModels -IC:/Qt/5.15.2/mingw81_64/include/QtQml -IC:/Qt/5.15.2/mingw81_64/include/QtNetwork -IC:/Qt/5.15.2/mingw81_64/include/QtSerialPort -IC:/Qt/5.15.2/mingw81_64/include/QtBluetooth -IC:/Qt/5.15.2/mingw81_64/include/QtCore -I. -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed -IC:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include ..\LuxaeGuiQml_bluetooth\bootloaderhostmachine.h -o release\moc_bootloaderhostmachine.cpp
-=======
 	C:\Qt\5.15.2\mingw81_64\bin\moc.exe $(DEFINES) --include "C:/Users/joseg/Desktop/qtdeveloping/RELEASE BUILD FOR QMLGUI AND BLUETOOTH/release/moc_predefs.h" -IC:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++ -IC:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth -IC:/Qt/5.15.2/mingw81_64/include -IC:/Qt/5.15.2/mingw81_64/include/QtQuick -IC:/Qt/5.15.2/mingw81_64/include/QtMultimedia -IC:/Qt/5.15.2/mingw81_64/include/QtGui -IC:/Qt/5.15.2/mingw81_64/include/QtANGLE -IC:/Qt/5.15.2/mingw81_64/include/QtQmlModels -IC:/Qt/5.15.2/mingw81_64/include/QtQml -IC:/Qt/5.15.2/mingw81_64/include/QtNetwork -IC:/Qt/5.15.2/mingw81_64/include/QtSerialPort -IC:/Qt/5.15.2/mingw81_64/include/QtBluetooth -IC:/Qt/5.15.2/mingw81_64/include/QtCore -I. -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed -IC:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include ..\LuxaeGuiQml_bluetooth\bootloaderhostmachine.h -o release\moc_bootloaderhostmachine.cpp
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
 release/moc_serialclassicbt.cpp: ../LuxaeGuiQml_bluetooth/serialclassicbt.h \
 		C:/Qt/5.15.2/mingw81_64/include/QtCore/QObject \
@@ -752,11 +722,7 @@ release/moc_serialclassicbt.cpp: ../LuxaeGuiQml_bluetooth/serialclassicbt.h \
 		C:/Qt/5.15.2/mingw81_64/include/QtCore/QTimer \
 		release/moc_predefs.h \
 		C:/Qt/5.15.2/mingw81_64/bin/moc.exe
-<<<<<<< HEAD
-	C:\Qt\5.15.2\mingw81_64\bin\moc.exe $(DEFINES) --include C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release/moc_predefs.h -IC:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++ -IC:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth -IC:/Qt/5.15.2/mingw81_64/include -IC:/Qt/5.15.2/mingw81_64/include/QtQuick -IC:/Qt/5.15.2/mingw81_64/include/QtMultimedia -IC:/Qt/5.15.2/mingw81_64/include/QtGui -IC:/Qt/5.15.2/mingw81_64/include/QtANGLE -IC:/Qt/5.15.2/mingw81_64/include/QtQmlModels -IC:/Qt/5.15.2/mingw81_64/include/QtQml -IC:/Qt/5.15.2/mingw81_64/include/QtNetwork -IC:/Qt/5.15.2/mingw81_64/include/QtSerialPort -IC:/Qt/5.15.2/mingw81_64/include/QtBluetooth -IC:/Qt/5.15.2/mingw81_64/include/QtCore -I. -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed -IC:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include ..\LuxaeGuiQml_bluetooth\serialclassicbt.h -o release\moc_serialclassicbt.cpp
-=======
 	C:\Qt\5.15.2\mingw81_64\bin\moc.exe $(DEFINES) --include "C:/Users/joseg/Desktop/qtdeveloping/RELEASE BUILD FOR QMLGUI AND BLUETOOTH/release/moc_predefs.h" -IC:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++ -IC:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth -IC:/Qt/5.15.2/mingw81_64/include -IC:/Qt/5.15.2/mingw81_64/include/QtQuick -IC:/Qt/5.15.2/mingw81_64/include/QtMultimedia -IC:/Qt/5.15.2/mingw81_64/include/QtGui -IC:/Qt/5.15.2/mingw81_64/include/QtANGLE -IC:/Qt/5.15.2/mingw81_64/include/QtQmlModels -IC:/Qt/5.15.2/mingw81_64/include/QtQml -IC:/Qt/5.15.2/mingw81_64/include/QtNetwork -IC:/Qt/5.15.2/mingw81_64/include/QtSerialPort -IC:/Qt/5.15.2/mingw81_64/include/QtBluetooth -IC:/Qt/5.15.2/mingw81_64/include/QtCore -I. -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed -IC:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include ..\LuxaeGuiQml_bluetooth\serialclassicbt.h -o release\moc_serialclassicbt.cpp
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
 release/moc_serialusb.cpp: ../LuxaeGuiQml_bluetooth/serialusb.h \
 		C:/Qt/5.15.2/mingw81_64/include/QtCore/QObject \
@@ -835,11 +801,7 @@ release/moc_serialusb.cpp: ../LuxaeGuiQml_bluetooth/serialusb.h \
 		C:/Qt/5.15.2/mingw81_64/include/QtCore/qbasictimer.h \
 		release/moc_predefs.h \
 		C:/Qt/5.15.2/mingw81_64/bin/moc.exe
-<<<<<<< HEAD
-	C:\Qt\5.15.2\mingw81_64\bin\moc.exe $(DEFINES) --include C:/Users/joseg/Desktop/qtdeveloping/build-LuxaeGuiQml-Desktop_Qt_5_15_2_MinGW_64_bit-Release/release/moc_predefs.h -IC:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++ -IC:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth -IC:/Qt/5.15.2/mingw81_64/include -IC:/Qt/5.15.2/mingw81_64/include/QtQuick -IC:/Qt/5.15.2/mingw81_64/include/QtMultimedia -IC:/Qt/5.15.2/mingw81_64/include/QtGui -IC:/Qt/5.15.2/mingw81_64/include/QtANGLE -IC:/Qt/5.15.2/mingw81_64/include/QtQmlModels -IC:/Qt/5.15.2/mingw81_64/include/QtQml -IC:/Qt/5.15.2/mingw81_64/include/QtNetwork -IC:/Qt/5.15.2/mingw81_64/include/QtSerialPort -IC:/Qt/5.15.2/mingw81_64/include/QtBluetooth -IC:/Qt/5.15.2/mingw81_64/include/QtCore -I. -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed -IC:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include ..\LuxaeGuiQml_bluetooth\serialusb.h -o release\moc_serialusb.cpp
-=======
 	C:\Qt\5.15.2\mingw81_64\bin\moc.exe $(DEFINES) --include "C:/Users/joseg/Desktop/qtdeveloping/RELEASE BUILD FOR QMLGUI AND BLUETOOTH/release/moc_predefs.h" -IC:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++ -IC:/Users/joseg/Desktop/qtdeveloping/LuxaeGuiQml_bluetooth -IC:/Qt/5.15.2/mingw81_64/include -IC:/Qt/5.15.2/mingw81_64/include/QtQuick -IC:/Qt/5.15.2/mingw81_64/include/QtMultimedia -IC:/Qt/5.15.2/mingw81_64/include/QtGui -IC:/Qt/5.15.2/mingw81_64/include/QtANGLE -IC:/Qt/5.15.2/mingw81_64/include/QtQmlModels -IC:/Qt/5.15.2/mingw81_64/include/QtQml -IC:/Qt/5.15.2/mingw81_64/include/QtNetwork -IC:/Qt/5.15.2/mingw81_64/include/QtSerialPort -IC:/Qt/5.15.2/mingw81_64/include/QtBluetooth -IC:/Qt/5.15.2/mingw81_64/include/QtCore -I. -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32 -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include -IC:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed -IC:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include ..\LuxaeGuiQml_bluetooth\serialusb.h -o release\moc_serialusb.cpp
->>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
 
 compiler_moc_objc_header_make_all:
 compiler_moc_objc_header_clean:
