@@ -9,6 +9,7 @@
         <file alias="DropModule.qml">../LuxaeGuiQml_bluetooth/DropModule.qml</file>
         <file alias="LatchingButton.qml">../LuxaeGuiQml_bluetooth/LatchingButton.qml</file>
         <file alias="CenterPanel.qml">../LuxaeGuiQml_bluetooth/CenterPanel.qml</file>
+<<<<<<< HEAD
         <file alias="luxae binaries/BLcornermasks.bin">../LuxaeGuiQml_bluetooth/luxae binaries/BLcornermasks.bin</file>
         <file alias="luxae binaries/BLcornermasks.bin.bak">../LuxaeGuiQml_bluetooth/luxae binaries/BLcornermasks.bin.bak</file>
         <file alias="luxae binaries/BRcornermasks.bin">../LuxaeGuiQml_bluetooth/luxae binaries/BRcornermasks.bin</file>
@@ -27,6 +28,8 @@
         <file alias="luxae binaries/patterns.bin">../LuxaeGuiQml_bluetooth/luxae binaries/patterns.bin</file>
         <file alias="luxae binaries/v053rev4.bin">../LuxaeGuiQml_bluetooth/luxae binaries/v053rev4.bin</file>
         <file alias="luxae binaries/v057rev2.bin">../LuxaeGuiQml_bluetooth/luxae binaries/v057rev2.bin</file>
+=======
+>>>>>>> 9df04391f47cc076e5c123619c99f284274bc289
         <file alias="hola.jpeg">../LuxaeGuiQml_bluetooth/hola.jpeg</file>
     </qresource>
 </RCC>

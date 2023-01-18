@@ -223,7 +223,6 @@ Makefile: ../LuxaeGuiQml_bluetooth/LuxaeGuiQml.pro C:/Qt/5.15.2/mingw81_64/mkspe
 		C:/Qt/5.15.2/mingw81_64/mkspecs/features/qt_config.prf \
 		C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++/qmake.conf \
 		C:/Qt/5.15.2/mingw81_64/mkspecs/features/spec_post.prf \
-		.qmake.stash \
 		C:/Qt/5.15.2/mingw81_64/mkspecs/features/exclusive_builds.prf \
 		C:/Qt/5.15.2/mingw81_64/mkspecs/features/toolchain.prf \
 		C:/Qt/5.15.2/mingw81_64/mkspecs/features/default_pre.prf \
@@ -257,6 +256,7 @@ Makefile: ../LuxaeGuiQml_bluetooth/LuxaeGuiQml.pro C:/Qt/5.15.2/mingw81_64/mkspe
 		C:/Qt/5.15.2/mingw81_64/lib/Qt5Bluetooth.prl \
 		C:/Qt/5.15.2/mingw81_64/lib/Qt5Core.prl \
 		C:/Qt/5.15.2/mingw81_64/lib/qtmain.prl \
+		.qmake.stash \
 		C:/Qt/5.15.2/mingw81_64/mkspecs/features/build_pass.prf \
 		qml_qmlcache.qrc
 	$(QMAKE) -o Makefile ..\LuxaeGuiQml_bluetooth\LuxaeGuiQml.pro -spec win32-g++ "CONFIG+=qtquickcompiler"
@@ -413,7 +413,6 @@ C:/Qt/5.15.2/mingw81_64/mkspecs/features/qt_functions.prf:
 C:/Qt/5.15.2/mingw81_64/mkspecs/features/qt_config.prf:
 C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++/qmake.conf:
 C:/Qt/5.15.2/mingw81_64/mkspecs/features/spec_post.prf:
-.qmake.stash:
 C:/Qt/5.15.2/mingw81_64/mkspecs/features/exclusive_builds.prf:
 C:/Qt/5.15.2/mingw81_64/mkspecs/features/toolchain.prf:
 C:/Qt/5.15.2/mingw81_64/mkspecs/features/default_pre.prf:
@@ -447,6 +446,7 @@ C:/Qt/5.15.2/mingw81_64/lib/Qt5SerialPort.prl:
 C:/Qt/5.15.2/mingw81_64/lib/Qt5Bluetooth.prl:
 C:/Qt/5.15.2/mingw81_64/lib/Qt5Core.prl:
 C:/Qt/5.15.2/mingw81_64/lib/qtmain.prl:
+.qmake.stash:
 C:/Qt/5.15.2/mingw81_64/mkspecs/features/build_pass.prf:
 qml_qmlcache.qrc:
 qmake: FORCE
